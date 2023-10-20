@@ -1,0 +1,1836 @@
+
+
+       <option value="" selected="selected">—</option>
+    
+<option value="17100" id="field-swarm-monster-aarakocra">Aarakocra</option>
+
+<option value="2560712" id="field-swarm-monster-abjurer-wizard">Abjurer Wizard</option>
+
+<option value="16762" id="field-swarm-monster-aboleth">Aboleth</option>
+
+<option value="17105" id="field-swarm-monster-abominable-yeti">Abominable Yeti</option>
+
+<option value="744296" id="field-swarm-monster-abominable-yeti-allowak-variant">Abominable Yeti (Allowak variant)</option>
+
+<option value="16763" id="field-swarm-monster-acolyte">Acolyte</option>
+
+<option value="16764" id="field-swarm-monster-adult-black-dragon">Adult Black Dragon</option>
+
+<option value="17106" id="field-swarm-monster-adult-blue-dracolich">Adult Blue Dracolich</option>
+
+<option value="16765" id="field-swarm-monster-adult-blue-dragon">Adult Blue Dragon</option>
+
+<option value="16766" id="field-swarm-monster-adult-brass-dragon">Adult Brass Dragon</option>
+
+<option value="16767" id="field-swarm-monster-adult-bronze-dragon">Adult Bronze Dragon</option>
+
+<option value="16768" id="field-swarm-monster-adult-copper-dragon">Adult Copper Dragon</option>
+
+<option value="16769" id="field-swarm-monster-adult-gold-dragon">Adult Gold Dragon</option>
+
+<option value="16770" id="field-swarm-monster-adult-green-dragon">Adult Green Dragon</option>
+
+<option value="2560713" id="field-swarm-monster-adult-kruthik">Adult Kruthik</option>
+
+<option value="2560714" id="field-swarm-monster-adult-oblex">Adult Oblex</option>
+
+<option value="1237457" id="field-swarm-monster-adult-red-dracolich">Adult Red Dracolich</option>
+
+<option value="16771" id="field-swarm-monster-adult-red-dragon">Adult Red Dragon</option>
+
+<option value="16772" id="field-swarm-monster-adult-silver-dragon">Adult Silver Dragon</option>
+
+<option value="16773" id="field-swarm-monster-adult-white-dragon">Adult White Dragon</option>
+
+<option value="744297" id="field-swarm-monster-aeorian-absorber">Aeorian Absorber</option>
+
+<option value="744298" id="field-swarm-monster-aeorian-nullifier">Aeorian Nullifier</option>
+
+<option value="744299" id="field-swarm-monster-aeorian-reverser">Aeorian Reverser</option>
+
+<option value="16774" id="field-swarm-monster-air-elemental">Air Elemental</option>
+
+<option value="2560715" id="field-swarm-monster-air-elemental-myrmidon">Air Elemental Myrmidon</option>
+
+<option value="2560716" id="field-swarm-monster-alhoon">Alhoon</option>
+
+<option value="2560717" id="field-swarm-monster-alkilith">Alkilith</option>
+
+<option value="2560718" id="field-swarm-monster-allip">Allip</option>
+
+<option value="17087" id="field-swarm-monster-allosaurus">Allosaurus</option>
+
+<option value="2560720" id="field-swarm-monster-amnizu">Amnizu</option>
+
+<option value="2560719" id="field-swarm-monster-amnizu-summoner-variant">Amnizu (Summoner Variant)</option>
+
+<option value="16775" id="field-swarm-monster-ancient-black-dragon">Ancient Black Dragon</option>
+
+<option value="16776" id="field-swarm-monster-ancient-blue-dragon">Ancient Blue Dragon</option>
+
+<option value="16777" id="field-swarm-monster-ancient-brass-dragon">Ancient Brass Dragon</option>
+
+<option value="16778" id="field-swarm-monster-ancient-bronze-dragon">Ancient Bronze Dragon</option>
+
+<option value="16779" id="field-swarm-monster-ancient-copper-dragon">Ancient Copper Dragon</option>
+
+<option value="360022" id="field-swarm-monster-ancient-deep-crow">Ancient Deep Crow</option>
+
+<option value="16780" id="field-swarm-monster-ancient-gold-dragon">Ancient Gold Dragon</option>
+
+<option value="16781" id="field-swarm-monster-ancient-green-dragon">Ancient Green Dragon</option>
+
+<option value="16782" id="field-swarm-monster-ancient-red-dragon">Ancient Red Dragon</option>
+
+<option value="16783" id="field-swarm-monster-ancient-silver-dragon">Ancient Silver Dragon</option>
+
+<option value="16784" id="field-swarm-monster-ancient-white-dragon">Ancient White Dragon</option>
+
+<option value="16785" id="field-swarm-monster-androsphinx">Androsphinx</option>
+
+<option value="2560721" id="field-swarm-monster-angry-sorrowsworn">Angry Sorrowsworn</option>
+
+<option value="16786" id="field-swarm-monster-animated-armor">Animated Armor</option>
+
+<option value="744300" id="field-swarm-monster-animated-knife">Animated Knife</option>
+
+<option value="744301" id="field-swarm-monster-animated-tree">Animated Tree</option>
+
+<option value="16787" id="field-swarm-monster-ankheg">Ankheg</option>
+
+<option value="17088" id="field-swarm-monster-ankylosaurus">Ankylosaurus</option>
+
+<option value="2560722" id="field-swarm-monster-annis-hag">Annis Hag</option>
+
+<option value="16788" id="field-swarm-monster-ape">Ape</option>
+
+<option value="2560723" id="field-swarm-monster-apprentice-wizard">Apprentice Wizard</option>
+
+<option value="17109" id="field-swarm-monster-arcanaloth">Arcanaloth</option>
+
+<option value="301430" id="field-swarm-monster-arcanaloth-summoner-variant">Arcanaloth (summoner variant)</option>
+
+<option value="2560724" id="field-swarm-monster-archdruid">Archdruid</option>
+
+<option value="2560725" id="field-swarm-monster-archer">Archer</option>
+
+<option value="16789" id="field-swarm-monster-archmage">Archmage</option>
+
+<option value="2560726" id="field-swarm-monster-armanite">Armanite</option>
+
+<option value="287872" id="field-swarm-monster-ash-zombie">Ash Zombie</option>
+
+<option value="16790" id="field-swarm-monster-assassin">Assassin</option>
+
+<option value="2506147" id="field-swarm-monster-asteroid-spider">Asteroid Spider</option>
+
+<option value="2560727" id="field-swarm-monster-astral-dreadnought">Astral Dreadnought</option>
+
+<option value="2560728" id="field-swarm-monster-aurochs">Aurochs</option>
+
+<option value="359970" id="field-swarm-monster-auspicia-dran">Auspicia Dran</option>
+
+<option value="2560729" id="field-swarm-monster-autumn-eladrin">Autumn Eladrin</option>
+
+<option value="27734" id="field-swarm-monster-avatar-of-death">Avatar of Death</option>
+
+<option value="16791" id="field-swarm-monster-awakened-shrub">Awakened Shrub</option>
+
+<option value="16792" id="field-swarm-monster-awakened-tree">Awakened Tree</option>
+
+<option value="16793" id="field-swarm-monster-axe-beak">Axe Beak</option>
+
+<option value="16794" id="field-swarm-monster-azer">Azer</option>
+
+<option value="2560730" id="field-swarm-monster-babau">Babau</option>
+
+<option value="16795" id="field-swarm-monster-baboon">Baboon</option>
+
+<option value="16796" id="field-swarm-monster-badger">Badger</option>
+
+<option value="2560731" id="field-swarm-monster-bael">Bael</option>
+
+<option value="2560732" id="field-swarm-monster-balhannoth">Balhannoth</option>
+
+<option value="16797" id="field-swarm-monster-balor">Balor</option>
+
+<option value="301565" id="field-swarm-monster-balor-summoner-variant">Balor (Summoner Variant)</option>
+
+<option value="2560733" id="field-swarm-monster-banderhobb">Banderhobb</option>
+
+<option value="16798" id="field-swarm-monster-bandit">Bandit</option>
+
+<option value="2365860" id="field-swarm-monster-bandit-barbarian">Bandit Barbarian</option>
+
+<option value="16799" id="field-swarm-monster-bandit-captain">Bandit Captain</option>
+
+<option value="2383616" id="field-swarm-monster-bandit-mage">Bandit Mage</option>
+
+<option value="17089" id="field-swarm-monster-banshee">Banshee</option>
+
+<option value="2560734" id="field-swarm-monster-baphomet">Baphomet</option>
+
+<option value="16800" id="field-swarm-monster-barbed-devil">Barbed Devil</option>
+
+<option value="301678" id="field-swarm-monster-barbed-devil-summoner-variant">Barbed Devil (Summoner Variant)</option>
+
+<option value="2560735" id="field-swarm-monster-bard">Bard</option>
+
+<option value="2560736" id="field-swarm-monster-barghest">Barghest</option>
+
+<option value="17110" id="field-swarm-monster-barlgura">Barlgura</option>
+
+<option value="301575" id="field-swarm-monster-barlgura-summoner-variant">Barlgura (summoner variant)</option>
+
+<option value="16801" id="field-swarm-monster-basilisk">Basilisk</option>
+
+<option value="16802" id="field-swarm-monster-bat">Bat</option>
+
+<option value="16803" id="field-swarm-monster-bearded-devil">Bearded Devil</option>
+
+<option value="301684" id="field-swarm-monster-bearded-devil-summoner-variant">Bearded Devil (Summoner Variant)</option>
+
+<option value="16804" id="field-swarm-monster-behir">Behir</option>
+
+<option value="17099" id="field-swarm-monster-beholder">Beholder</option>
+
+<option value="17111" id="field-swarm-monster-beholder-zombie">Beholder Zombie</option>
+
+<option value="2560737" id="field-swarm-monster-berbalang">Berbalang</option>
+
+<option value="16805" id="field-swarm-monster-berserker">Berserker</option>
+
+<option value="2560738" id="field-swarm-monster-bheur-hag">Bheur Hag</option>
+
+<option value="2560739" id="field-swarm-monster-black-abishai">Black Abishai</option>
+
+<option value="16806" id="field-swarm-monster-black-bear">Black Bear</option>
+
+<option value="16807" id="field-swarm-monster-black-dragon-wyrmling">Black Dragon Wyrmling</option>
+
+<option value="2560740" id="field-swarm-monster-black-guard-drake">Black Guard Drake</option>
+
+<option value="16808" id="field-swarm-monster-black-pudding">Black Pudding</option>
+
+<option value="2560741" id="field-swarm-monster-blackguard">Blackguard</option>
+
+<option value="16809" id="field-swarm-monster-blink-dog">Blink Dog</option>
+
+<option value="16810" id="field-swarm-monster-blood-hawk">Blood Hawk</option>
+
+<option value="744302" id="field-swarm-monster-blood-hunter">Blood Hunter</option>
+
+<option value="2560742" id="field-swarm-monster-blue-abishai">Blue Abishai</option>
+
+<option value="16811" id="field-swarm-monster-blue-dragon-wyrmling">Blue Dragon Wyrmling</option>
+
+<option value="2560743" id="field-swarm-monster-blue-guard-drake">Blue Guard Drake</option>
+
+<option value="17112" id="field-swarm-monster-blue-slaad">Blue Slaad</option>
+
+<option value="301510" id="field-swarm-monster-blue-slaad-control-gem-variant">Blue Slaad (control gem variant)</option>
+
+<option value="16812" id="field-swarm-monster-boar">Boar</option>
+
+<option value="2560744" id="field-swarm-monster-bodak">Bodak</option>
+
+<option value="17224" id="field-swarm-monster-boggle">Boggle</option>
+
+<option value="744303" id="field-swarm-monster-bolbara">Bol'bara</option>
+
+<option value="16813" id="field-swarm-monster-bone-devil">Bone Devil</option>
+
+<option value="301694" id="field-swarm-monster-bone-devil-polearm-variant">Bone Devil (Polearm Variant)</option>
+
+<option value="301691" id="field-swarm-monster-bone-devil-summoner-variant">Bone Devil (Summoner Variant)</option>
+
+<option value="17118" id="field-swarm-monster-bone-naga">Bone Naga</option>
+
+<option value="2560745" id="field-swarm-monster-boneclaw">Boneclaw</option>
+
+<option value="359863" id="field-swarm-monster-brahma-lutier">Brahma Lutier</option>
+
+<option value="16814" id="field-swarm-monster-brass-dragon-wyrmling">Brass Dragon Wyrmling</option>
+
+<option value="744304" id="field-swarm-monster-bristled-moorbounder">Bristled Moorbounder</option>
+
+<option value="2560746" id="field-swarm-monster-brontosaurus">Brontosaurus</option>
+
+<option value="16815" id="field-swarm-monster-bronze-dragon-wyrmling">Bronze Dragon Wyrmling</option>
+
+<option value="16816" id="field-swarm-monster-brown-bear">Brown Bear</option>
+
+<option value="287878" id="field-swarm-monster-brughor-axe-biter">Brughor Axe-Biter</option>
+
+<option value="16817" id="field-swarm-monster-bugbear">Bugbear</option>
+
+<option value="17119" id="field-swarm-monster-bugbear-chief">Bugbear Chief</option>
+
+<option value="16818" id="field-swarm-monster-bulette">Bulette</option>
+
+<option value="2560747" id="field-swarm-monster-bulezau">Bulezau</option>
+
+<option value="17120" id="field-swarm-monster-bullywug">Bullywug</option>
+
+<option value="2560748" id="field-swarm-monster-cadaver-collector">Cadaver Collector</option>
+
+<option value="17137" id="field-swarm-monster-cambion">Cambion</option>
+
+<option value="16819" id="field-swarm-monster-camel">Camel</option>
+
+<option value="2560749" id="field-swarm-monster-canoloth">Canoloth</option>
+
+<option value="17138" id="field-swarm-monster-carrion-crawler">Carrion Crawler</option>
+
+<option value="16820" id="field-swarm-monster-cat">Cat</option>
+
+<option value="2560750" id="field-swarm-monster-catoblepas">Catoblepas</option>
+
+<option value="17141" id="field-swarm-monster-cave-bear">Cave Bear</option>
+
+<option value="2560751" id="field-swarm-monster-cave-fisher">Cave Fisher</option>
+
+<option value="16821" id="field-swarm-monster-centaur">Centaur</option>
+
+<option value="16822" id="field-swarm-monster-chain-devil">Chain Devil</option>
+
+<option value="2560752" id="field-swarm-monster-champion">Champion</option>
+
+<option value="359993" id="field-swarm-monster-chaos-quadrapod">Chaos Quadrapod</option>
+
+<option value="17140" id="field-swarm-monster-chasme">Chasme</option>
+
+<option value="301592" id="field-swarm-monster-chasme-summoner-variant">Chasme (summoner variant)</option>
+
+<option value="16823" id="field-swarm-monster-chimera">Chimera</option>
+
+<option value="2560753" id="field-swarm-monster-chitine">Chitine</option>
+
+<option value="2560754" id="field-swarm-monster-choker">Choker</option>
+
+<option value="2560755" id="field-swarm-monster-choldrith">Choldrith</option>
+
+<option value="16824" id="field-swarm-monster-chuul">Chuul</option>
+
+<option value="132801" id="field-swarm-monster-clawfoot-raptor">Clawfoot Raptor</option>
+
+<option value="16825" id="field-swarm-monster-clay-golem">Clay Golem</option>
+
+<option value="16826" id="field-swarm-monster-cloaker">Cloaker</option>
+
+<option value="360959" id="field-swarm-monster-clockwork-behir">Clockwork Behir</option>
+
+<option value="2560756" id="field-swarm-monster-clockwork-bronze-scout">Clockwork Bronze Scout</option>
+
+<option value="359999" id="field-swarm-monster-clockwork-dragon">Clockwork Dragon</option>
+
+<option value="2506149" id="field-swarm-monster-clockwork-horror">Clockwork Horror</option>
+
+<option value="2560757" id="field-swarm-monster-clockwork-iron-cobra">Clockwork Iron Cobra</option>
+
+<option value="2560758" id="field-swarm-monster-clockwork-oaken-bolter">Clockwork Oaken Bolter</option>
+
+<option value="2560759" id="field-swarm-monster-clockwork-stone-defender">Clockwork Stone Defender</option>
+
+<option value="16827" id="field-swarm-monster-cloud-giant">Cloud Giant</option>
+
+<option value="2560760" id="field-swarm-monster-cloud-giant-smiling-one">Cloud Giant Smiling One</option>
+
+<option value="16828" id="field-swarm-monster-cockatrice">Cockatrice</option>
+
+<option value="16829" id="field-swarm-monster-commoner">Commoner</option>
+
+<option value="2560761" id="field-swarm-monster-conjurer-wizard">Conjurer Wizard</option>
+
+<option value="16830" id="field-swarm-monster-constrictor-snake">Constrictor Snake</option>
+
+<option value="16831" id="field-swarm-monster-copper-dragon-wyrmling">Copper Dragon Wyrmling</option>
+
+<option value="744305" id="field-swarm-monster-core-spawn-crawler">Core Spawn Crawler</option>
+
+<option value="744306" id="field-swarm-monster-core-spawn-emissary">Core Spawn Emissary</option>
+
+<option value="744307" id="field-swarm-monster-core-spawn-seer">Core Spawn Seer</option>
+
+<option value="744308" id="field-swarm-monster-core-spawn-worm">Core Spawn Worm</option>
+
+<option value="2560762" id="field-swarm-monster-corpse-flower">Corpse Flower</option>
+
+<option value="16832" id="field-swarm-monster-couatl">Couatl</option>
+
+<option value="16833" id="field-swarm-monster-crab">Crab</option>
+
+<option value="2560763" id="field-swarm-monster-cranium-rat">Cranium Rat</option>
+
+<option value="17139" id="field-swarm-monster-crawling-claw">Crawling Claw</option>
+
+<option value="16834" id="field-swarm-monster-crocodile">Crocodile</option>
+
+<option value="16836" id="field-swarm-monster-cult-fanatic">Cult Fanatic</option>
+
+<option value="16835" id="field-swarm-monster-cultist">Cultist</option>
+
+<option value="17090" id="field-swarm-monster-cyclops">Cyclops</option>
+
+<option value="360947" id="field-swarm-monster-dagdra-deepforge">Dagdra Deepforge</option>
+
+<option value="744309" id="field-swarm-monster-damaged-flesh-golem">Damaged Flesh Golem</option>
+
+<option value="17142" id="field-swarm-monster-dao">Dao</option>
+
+<option value="17231" id="field-swarm-monster-darkling">Darkling</option>
+
+<option value="17232" id="field-swarm-monster-darkling-elder">Darkling Elder</option>
+
+<option value="16837" id="field-swarm-monster-darkmantle">Darkmantle</option>
+
+<option value="16838" id="field-swarm-monster-death-dog">Death Dog</option>
+
+<option value="2560764" id="field-swarm-monster-death-kiss">Death Kiss</option>
+
+<option value="17128" id="field-swarm-monster-death-knight">Death Knight</option>
+
+<option value="17113" id="field-swarm-monster-death-slaad">Death Slaad</option>
+
+<option value="301512" id="field-swarm-monster-death-slaad-control-gem-variant">Death Slaad (control gem variant)</option>
+
+<option value="17144" id="field-swarm-monster-death-tyrant">Death Tyrant</option>
+
+<option value="2560767" id="field-swarm-monster-deathlock">Deathlock</option>
+
+<option value="2560765" id="field-swarm-monster-deathlock-mastermind">Deathlock Mastermind</option>
+
+<option value="2560766" id="field-swarm-monster-deathlock-wight">Deathlock Wight</option>
+
+<option value="360001" id="field-swarm-monster-deep-crow">Deep Crow</option>
+
+<option value="17211" id="field-swarm-monster-deep-gnome-svirfneblin">Deep Gnome (Svirfneblin)</option>
+
+<option value="2560768" id="field-swarm-monster-deep-rothe">Deep Rothé</option>
+
+<option value="2560769" id="field-swarm-monster-deep-scion">Deep Scion</option>
+
+<option value="16839" id="field-swarm-monster-deer">Deer</option>
+
+<option value="2560770" id="field-swarm-monster-deinonychus">Deinonychus</option>
+
+<option value="17129" id="field-swarm-monster-demilich">Demilich</option>
+
+<option value="3134626" id="field-swarm-monster-demilich-variant">Demilich (Variant)</option>
+
+<option value="2560771" id="field-swarm-monster-demogorgon">Demogorgon</option>
+
+<option value="2560773" id="field-swarm-monster-derro">Derro</option>
+
+<option value="2560772" id="field-swarm-monster-derro-savant">Derro Savant</option>
+
+<option value="16840" id="field-swarm-monster-deva">Deva</option>
+
+<option value="360889" id="field-swarm-monster-devil-dog">Devil Dog</option>
+
+<option value="2560774" id="field-swarm-monster-devourer">Devourer</option>
+
+<option value="2560775" id="field-swarm-monster-dhergoloth">Dhergoloth</option>
+
+<option value="2560776" id="field-swarm-monster-dimetrodon">Dimetrodon</option>
+
+<option value="2560777" id="field-swarm-monster-dire-troll">Dire Troll</option>
+
+<option value="16841" id="field-swarm-monster-dire-wolf">Dire Wolf</option>
+
+<option value="288142" id="field-swarm-monster-diseased-giant-rat">Diseased Giant Rat</option>
+
+<option value="17130" id="field-swarm-monster-displacer-beast">Displacer Beast</option>
+
+<option value="2560778" id="field-swarm-monster-diviner-wizard">Diviner Wizard</option>
+
+<option value="16842" id="field-swarm-monster-djinni">Djinni</option>
+
+<option value="2560780" id="field-swarm-monster-dolphin">Dolphin</option>
+
+<option value="2560779" id="field-swarm-monster-dolphin-delighter">Dolphin Delighter</option>
+
+<option value="359377" id="field-swarm-monster-donaar-blitzen">Donaar Blit’zen</option>
+
+<option value="16843" id="field-swarm-monster-doppelganger">Doppelganger</option>
+
+<option value="3342708" id="field-swarm-monster-doric">Doric</option>
+
+<option value="2560781" id="field-swarm-monster-draegloth">Draegloth</option>
+
+<option value="16844" id="field-swarm-monster-draft-horse">Draft Horse</option>
+
+<option value="16845" id="field-swarm-monster-dragon-turtle">Dragon Turtle</option>
+
+<option value="16846" id="field-swarm-monster-dretch">Dretch</option>
+
+<option value="16847" id="field-swarm-monster-drider">Drider</option>
+
+<option value="272279" id="field-swarm-monster-drider-variant">Drider (variant)</option>
+
+<option value="17133" id="field-swarm-monster-drow">Drow</option>
+
+<option value="2560782" id="field-swarm-monster-drow-arachnomancer">Drow Arachnomancer</option>
+
+<option value="17134" id="field-swarm-monster-drow-elite-warrior">Drow Elite Warrior</option>
+
+<option value="2560783" id="field-swarm-monster-drow-favored-consort">Drow Favored Consort</option>
+
+<option value="2560784" id="field-swarm-monster-drow-house-captain">Drow House Captain</option>
+
+<option value="2560786" id="field-swarm-monster-drow-inquisitor">Drow Inquisitor</option>
+
+<option value="2560785" id="field-swarm-monster-drow-inquisitor-summoner-variant">Drow Inquisitor (Summoner Variant)</option>
+
+<option value="17135" id="field-swarm-monster-drow-mage">Drow Mage</option>
+
+<option value="2560787" id="field-swarm-monster-drow-matron-mother">Drow Matron Mother</option>
+
+<option value="2560788" id="field-swarm-monster-drow-mother-of-rebellion">Drow Mother of Rebellion</option>
+
+<option value="17136" id="field-swarm-monster-drow-priestess-of-lolth">Drow Priestess of Lolth</option>
+
+<option value="2560790" id="field-swarm-monster-drow-shadowblade">Drow Shadowblade</option>
+
+<option value="2560789" id="field-swarm-monster-drow-shadowblade-summoner-variant">Drow Shadowblade (Summoner Variant)</option>
+
+<option value="16848" id="field-swarm-monster-druid">Druid</option>
+
+<option value="16849" id="field-swarm-monster-dryad">Dryad</option>
+
+<option value="16850" id="field-swarm-monster-duergar">Duergar</option>
+
+<option value="2560791" id="field-swarm-monster-duergar-despot">Duergar Despot</option>
+
+<option value="2560792" id="field-swarm-monster-duergar-hammerer">Duergar Hammerer</option>
+
+<option value="2560793" id="field-swarm-monster-duergar-kavalrachni">Duergar Kavalrachni</option>
+
+<option value="2560794" id="field-swarm-monster-duergar-mind-master">Duergar Mind Master</option>
+
+<option value="2560795" id="field-swarm-monster-duergar-screamer">Duergar Screamer</option>
+
+<option value="2560796" id="field-swarm-monster-duergar-soulblade">Duergar Soulblade</option>
+
+<option value="2560797" id="field-swarm-monster-duergar-stone-guard">Duergar Stone Guard</option>
+
+<option value="2560798" id="field-swarm-monster-duergar-warlord">Duergar Warlord</option>
+
+<option value="2560799" id="field-swarm-monster-duergar-xarrorn">Duergar Xarrorn</option>
+
+<option value="17180" id="field-swarm-monster-duodrone">Duodrone</option>
+
+<option value="804867" id="field-swarm-monster-dust-devil">Dust Devil</option>
+
+<option value="16851" id="field-swarm-monster-dust-mephit">Dust Mephit</option>
+
+<option value="301781" id="field-swarm-monster-dust-mephit-summoner-variant">Dust Mephit (Summoner Variant)</option>
+
+<option value="2560800" id="field-swarm-monster-dybbuk">Dybbuk</option>
+
+<option value="16852" id="field-swarm-monster-eagle">Eagle</option>
+
+<option value="16853" id="field-swarm-monster-earth-elemental">Earth Elemental</option>
+
+<option value="2560801" id="field-swarm-monster-earth-elemental-myrmidon">Earth Elemental Myrmidon</option>
+
+<option value="3342709" id="field-swarm-monster-edgin-darvis">Edgin Darvis</option>
+
+<option value="16854" id="field-swarm-monster-efreeti">Efreeti</option>
+
+<option value="2560802" id="field-swarm-monster-eidolon">Eidolon</option>
+
+<option value="2560803" id="field-swarm-monster-elder-brain">Elder Brain</option>
+
+<option value="2560804" id="field-swarm-monster-elder-oblex">Elder Oblex</option>
+
+<option value="2560805" id="field-swarm-monster-elder-tempest">Elder Tempest</option>
+
+<option value="2506152" id="field-swarm-monster-eldritch-lich">Eldritch Lich</option>
+
+<option value="16855" id="field-swarm-monster-elephant">Elephant</option>
+
+<option value="16857" id="field-swarm-monster-elk">Elk</option>
+
+<option value="17212" id="field-swarm-monster-empyrean">Empyrean</option>
+
+<option value="2560806" id="field-swarm-monster-enchanter-wizard">Enchanter Wizard</option>
+
+<option value="360895" id="field-swarm-monster-enormous-tentacle">Enormous Tentacle</option>
+
+<option value="16858" id="field-swarm-monster-erinyes">Erinyes</option>
+
+<option value="301706" id="field-swarm-monster-erinyes-rope-variant">Erinyes (Rope Variant)</option>
+
+<option value="301700" id="field-swarm-monster-erinyes-summoner-variant">Erinyes (Summoner Variant)</option>
+
+<option value="16859" id="field-swarm-monster-ettercap">Ettercap</option>
+
+<option value="301734" id="field-swarm-monster-ettercap-variant">Ettercap (variant)</option>
+
+<option value="16860" id="field-swarm-monster-ettin">Ettin</option>
+
+<option value="22021" id="field-swarm-monster-evil-mage">Evil Mage</option>
+
+<option value="2560807" id="field-swarm-monster-evoker-wizard">Evoker Wizard</option>
+
+<option value="17108" id="field-swarm-monster-faerie-dragon-older">Faerie Dragon (Older)</option>
+
+<option value="17107" id="field-swarm-monster-faerie-dragon-younger">Faerie Dragon (Younger)</option>
+
+<option value="2560808" id="field-swarm-monster-female-steeder">Female Steeder</option>
+
+<option value="744310" id="field-swarm-monster-ferol-sal">Ferol Sal</option>
+
+<option value="16861" id="field-swarm-monster-fire-elemental">Fire Elemental</option>
+
+<option value="2560809" id="field-swarm-monster-fire-elemental-myrmidon">Fire Elemental Myrmidon</option>
+
+<option value="16862" id="field-swarm-monster-fire-giant">Fire Giant</option>
+
+<option value="2560810" id="field-swarm-monster-fire-giant-dreadnought">Fire Giant Dreadnought</option>
+
+<option value="17199" id="field-swarm-monster-fire-snake">Fire Snake</option>
+
+<option value="2560811" id="field-swarm-monster-firenewt-warlock-of-imix">Firenewt Warlock of Imix</option>
+
+<option value="2560812" id="field-swarm-monster-firenewt-warrior">Firenewt Warrior</option>
+
+<option value="359358" id="field-swarm-monster-flabbergast">Flabbergast</option>
+
+<option value="2560813" id="field-swarm-monster-flail-snail">Flail Snail</option>
+
+<option value="17091" id="field-swarm-monster-flameskull">Flameskull</option>
+
+<option value="16863" id="field-swarm-monster-flesh-golem">Flesh Golem</option>
+
+<option value="2560814" id="field-swarm-monster-flind">Flind</option>
+
+<option value="17145" id="field-swarm-monster-flumph">Flumph</option>
+
+<option value="16864" id="field-swarm-monster-flying-snake">Flying Snake</option>
+
+<option value="16865" id="field-swarm-monster-flying-sword">Flying Sword</option>
+
+<option value="17146" id="field-swarm-monster-fomorian">Fomorian</option>
+
+<option value="3342710" id="field-swarm-monster-forge-fitzwilliam">Forge Fitzwilliam</option>
+
+<option value="2506153" id="field-swarm-monster-fractine">Fractine</option>
+
+<option value="2560815" id="field-swarm-monster-fraz-urbluu">Fraz-Urb’luu</option>
+
+<option value="16866" id="field-swarm-monster-frog">Frog</option>
+
+<option value="2560816" id="field-swarm-monster-froghemoth">Froghemoth</option>
+
+<option value="16867" id="field-swarm-monster-frost-giant">Frost Giant</option>
+
+<option value="2560817" id="field-swarm-monster-frost-giant-everlasting-one">Frost Giant Everlasting One</option>
+
+<option value="744311" id="field-swarm-monster-frost-giant-zombie">Frost Giant Zombie</option>
+
+<option value="2560818" id="field-swarm-monster-frost-salamander">Frost Salamander</option>
+
+<option value="744312" id="field-swarm-monster-frost-worm">Frost Worm</option>
+
+<option value="2506154" id="field-swarm-monster-gadabout">Gadabout</option>
+
+<option value="17148" id="field-swarm-monster-galeb-duhr">Galeb Duhr</option>
+
+<option value="16868" id="field-swarm-monster-gargoyle">Gargoyle</option>
+
+<option value="17147" id="field-swarm-monster-gas-spore">Gas Spore</option>
+
+<option value="2560819" id="field-swarm-monster-gauth">Gauth</option>
+
+<option value="2560821" id="field-swarm-monster-gazer">Gazer</option>
+
+<option value="2560820" id="field-swarm-monster-gazer-familiar-variant">Gazer (Familiar Variant)</option>
+
+<option value="744313" id="field-swarm-monster-gearkeeper-construct">Gearkeeper Construct</option>
+
+<option value="16869" id="field-swarm-monster-gelatinous-cube">Gelatinous Cube</option>
+
+<option value="2560823" id="field-swarm-monster-geryon">Geryon</option>
+
+<option value="2560822" id="field-swarm-monster-geryon-variant">Geryon (Variant)</option>
+
+<option value="16870" id="field-swarm-monster-ghast">Ghast</option>
+
+<option value="16871" id="field-swarm-monster-ghost">Ghost</option>
+
+<option value="16872" id="field-swarm-monster-ghoul">Ghoul</option>
+
+<option value="16873" id="field-swarm-monster-giant-ape">Giant Ape</option>
+
+<option value="16874" id="field-swarm-monster-giant-badger">Giant Badger</option>
+
+<option value="16875" id="field-swarm-monster-giant-bat">Giant Bat</option>
+
+<option value="16876" id="field-swarm-monster-giant-boar">Giant Boar</option>
+
+<option value="16877" id="field-swarm-monster-giant-centipede">Giant Centipede</option>
+
+<option value="16878" id="field-swarm-monster-giant-constrictor-snake">Giant Constrictor Snake</option>
+
+<option value="16879" id="field-swarm-monster-giant-crab">Giant Crab</option>
+
+<option value="16880" id="field-swarm-monster-giant-crocodile">Giant Crocodile</option>
+
+<option value="16881" id="field-swarm-monster-giant-eagle">Giant Eagle</option>
+
+<option value="16882" id="field-swarm-monster-giant-elk">Giant Elk</option>
+
+<option value="16883" id="field-swarm-monster-giant-fire-beetle">Giant Fire Beetle</option>
+
+<option value="27750" id="field-swarm-monster-giant-fly">Giant Fly</option>
+
+<option value="16884" id="field-swarm-monster-giant-frog">Giant Frog</option>
+
+<option value="16885" id="field-swarm-monster-giant-goat">Giant Goat</option>
+
+<option value="16886" id="field-swarm-monster-giant-hyena">Giant Hyena</option>
+
+<option value="16887" id="field-swarm-monster-giant-lizard">Giant Lizard</option>
+
+<option value="275699" id="field-swarm-monster-giant-lizard-variant">Giant Lizard (variant)</option>
+
+<option value="16888" id="field-swarm-monster-giant-octopus">Giant Octopus</option>
+
+<option value="16889" id="field-swarm-monster-giant-owl">Giant Owl</option>
+
+<option value="16890" id="field-swarm-monster-giant-poisonous-snake">Giant Poisonous Snake</option>
+
+<option value="16891" id="field-swarm-monster-giant-rat">Giant Rat</option>
+
+<option value="16892" id="field-swarm-monster-giant-scorpion">Giant Scorpion</option>
+
+<option value="16893" id="field-swarm-monster-giant-sea-horse">Giant Sea Horse</option>
+
+<option value="16894" id="field-swarm-monster-giant-shark">Giant Shark</option>
+
+<option value="16895" id="field-swarm-monster-giant-spider">Giant Spider</option>
+
+<option value="2560824" id="field-swarm-monster-giant-strider">Giant Strider</option>
+
+<option value="16896" id="field-swarm-monster-giant-toad">Giant Toad</option>
+
+<option value="16897" id="field-swarm-monster-giant-vulture">Giant Vulture</option>
+
+<option value="16898" id="field-swarm-monster-giant-wasp">Giant Wasp</option>
+
+<option value="16899" id="field-swarm-monster-giant-weasel">Giant Weasel</option>
+
+<option value="16900" id="field-swarm-monster-giant-wolf-spider">Giant Wolf Spider</option>
+
+<option value="16901" id="field-swarm-monster-gibbering-mouther">Gibbering Mouther</option>
+
+<option value="2560826" id="field-swarm-monster-giff">Giff</option>
+
+<option value="2560825" id="field-swarm-monster-giff-gunpowder-keg-variant">Giff (Gunpowder Keg Variant)</option>
+
+<option value="360921" id="field-swarm-monster-gildha-duhn">Gildha Duhn</option>
+
+<option value="2560827" id="field-swarm-monster-girallon">Girallon</option>
+
+<option value="2560828" id="field-swarm-monster-githyanki-gish">Githyanki Gish</option>
+
+<option value="2560829" id="field-swarm-monster-githyanki-kithrak">Githyanki Kith’rak</option>
+
+<option value="17150" id="field-swarm-monster-githyanki-knight">Githyanki Knight</option>
+
+<option value="2560830" id="field-swarm-monster-githyanki-supreme-commander">Githyanki Supreme Commander</option>
+
+<option value="17149" id="field-swarm-monster-githyanki-warrior">Githyanki Warrior</option>
+
+<option value="2560831" id="field-swarm-monster-githzerai-anarch">Githzerai Anarch</option>
+
+<option value="2560832" id="field-swarm-monster-githzerai-enlightened">Githzerai Enlightened</option>
+
+<option value="17151" id="field-swarm-monster-githzerai-monk">Githzerai Monk</option>
+
+<option value="17152" id="field-swarm-monster-githzerai-zerth">Githzerai Zerth</option>
+
+<option value="16902" id="field-swarm-monster-glabrezu">Glabrezu</option>
+
+<option value="301631" id="field-swarm-monster-glabrezu-summoner-variant">Glabrezu (summoner variant)</option>
+
+<option value="16903" id="field-swarm-monster-gladiator">Gladiator</option>
+
+<option value="744314" id="field-swarm-monster-gloomstalker">Gloomstalker</option>
+
+<option value="16904" id="field-swarm-monster-gnoll">Gnoll</option>
+
+<option value="17154" id="field-swarm-monster-gnoll-fang-of-yeenoghu">Gnoll Fang of Yeenoghu</option>
+
+<option value="2560833" id="field-swarm-monster-gnoll-flesh-gnawer">Gnoll Flesh Gnawer</option>
+
+<option value="2560834" id="field-swarm-monster-gnoll-hunter">Gnoll Hunter</option>
+
+<option value="17153" id="field-swarm-monster-gnoll-pack-lord">Gnoll Pack Lord</option>
+
+<option value="2560835" id="field-swarm-monster-gnoll-witherling">Gnoll Witherling</option>
+
+<option value="16906" id="field-swarm-monster-goat">Goat</option>
+
+<option value="16907" id="field-swarm-monster-goblin">Goblin</option>
+
+<option value="17155" id="field-swarm-monster-goblin-boss">Goblin Boss</option>
+
+<option value="17098" id="field-swarm-monster-gold-dragon-wyrmling">Gold Dragon Wyrmling</option>
+
+<option value="2506155" id="field-swarm-monster-goon-balloon">Goon Balloon</option>
+
+<option value="16908" id="field-swarm-monster-gorgon">Gorgon</option>
+
+<option value="17156" id="field-swarm-monster-goristro">Goristro</option>
+
+<option value="16909" id="field-swarm-monster-gray-ooze">Gray Ooze</option>
+
+<option value="2560836" id="field-swarm-monster-gray-render">Gray Render</option>
+
+<option value="17114" id="field-swarm-monster-gray-slaad">Gray Slaad</option>
+
+<option value="301511" id="field-swarm-monster-gray-slaad-control-gem-variant">Gray Slaad (control gem variant)</option>
+
+<option value="2560837" id="field-swarm-monster-grazzt">Graz’zt</option>
+
+<option value="2560838" id="field-swarm-monster-green-abishai">Green Abishai</option>
+
+<option value="16910" id="field-swarm-monster-green-dragon-wyrmling">Green Dragon Wyrmling</option>
+
+<option value="2560839" id="field-swarm-monster-green-guard-drake">Green Guard Drake</option>
+
+<option value="16911" id="field-swarm-monster-green-hag">Green Hag</option>
+
+<option value="301746" id="field-swarm-monster-green-hag-coven-variant">Green Hag (Coven Variant)</option>
+
+<option value="17115" id="field-swarm-monster-green-slaad">Green Slaad</option>
+
+<option value="301513" id="field-swarm-monster-green-slaad-control-gem-variant">Green Slaad (control gem variant)</option>
+
+<option value="17157" id="field-swarm-monster-grell">Grell</option>
+
+<option value="16912" id="field-swarm-monster-grick">Grick</option>
+
+<option value="17158" id="field-swarm-monster-grick-alpha">Grick Alpha</option>
+
+<option value="16913" id="field-swarm-monster-griffon">Griffon</option>
+
+<option value="16914" id="field-swarm-monster-grimlock">Grimlock</option>
+
+<option value="2560842" id="field-swarm-monster-grung">Grung</option>
+
+<option value="2560840" id="field-swarm-monster-grung-elite-warrior">Grung Elite Warrior</option>
+
+<option value="2560841" id="field-swarm-monster-grung-wildling">Grung Wildling</option>
+
+<option value="360931" id="field-swarm-monster-grunka">Grunka</option>
+
+<option value="16915" id="field-swarm-monster-guard">Guard</option>
+
+<option value="2560843" id="field-swarm-monster-guard-drake">Guard Drake</option>
+
+<option value="16916" id="field-swarm-monster-guardian-naga">Guardian Naga</option>
+
+<option value="745189" id="field-swarm-monster-guardian-wolf">Guardian Wolf</option>
+
+<option value="16917" id="field-swarm-monster-gynosphinx">Gynosphinx</option>
+
+<option value="2560844" id="field-swarm-monster-hadrosaurus">Hadrosaurus</option>
+
+<option value="17185" id="field-swarm-monster-half-ogre">Half-Ogre</option>
+
+<option value="16918" id="field-swarm-monster-half-red-dragon-veteran">Half-Red Dragon Veteran</option>
+
+<option value="16919" id="field-swarm-monster-harpy">Harpy</option>
+
+<option value="16920" id="field-swarm-monster-hawk">Hawk</option>
+
+<option value="16921" id="field-swarm-monster-hell-hound">Hell Hound</option>
+
+<option value="2560845" id="field-swarm-monster-hellfire-engine">Hellfire Engine</option>
+
+<option value="17159" id="field-swarm-monster-helmed-horror">Helmed Horror</option>
+
+<option value="16922" id="field-swarm-monster-hezrou">Hezrou</option>
+
+<option value="301636" id="field-swarm-monster-hezrou-summoner-variant">Hezrou (Summoner Variant)</option>
+
+<option value="16923" id="field-swarm-monster-hill-giant">Hill Giant</option>
+
+<option value="16924" id="field-swarm-monster-hippogriff">Hippogriff</option>
+
+<option value="16925" id="field-swarm-monster-hobgoblin">Hobgoblin</option>
+
+<option value="17160" id="field-swarm-monster-hobgoblin-captain">Hobgoblin Captain</option>
+
+<option value="2560846" id="field-swarm-monster-hobgoblin-devastator">Hobgoblin Devastator</option>
+
+<option value="2560847" id="field-swarm-monster-hobgoblin-iron-shadow">Hobgoblin Iron Shadow</option>
+
+<option value="17161" id="field-swarm-monster-hobgoblin-warlord">Hobgoblin Warlord</option>
+
+<option value="3342711" id="field-swarm-monster-holga-kilgore">Holga Kilgore</option>
+
+<option value="16926" id="field-swarm-monster-homunculus">Homunculus</option>
+
+<option value="1050478" id="field-swarm-monster-honor-spren">Honor Spren</option>
+
+<option value="1064695" id="field-swarm-monster-honor-spren-2">Honor Spren</option>
+
+<option value="17162" id="field-swarm-monster-hook-horror">Hook Horror</option>
+
+<option value="744315" id="field-swarm-monster-horizonback-tortoise">Horizonback Tortoise</option>
+
+<option value="16927" id="field-swarm-monster-horned-devil">Horned Devil</option>
+
+<option value="301714" id="field-swarm-monster-horned-devil-summoner-variant">Horned Devil (Summoner Variant)</option>
+
+<option value="2560848" id="field-swarm-monster-howler">Howler</option>
+
+<option value="744316" id="field-swarm-monster-hulil-lutan">Hulil Lutan</option>
+
+<option value="2560849" id="field-swarm-monster-hungry-sorrowsworn">Hungry Sorrowsworn</option>
+
+<option value="16928" id="field-swarm-monster-hunter-shark">Hunter Shark</option>
+
+<option value="744318" id="field-swarm-monster-husk-zombie">Husk Zombie</option>
+
+<option value="744317" id="field-swarm-monster-husk-zombie-burster">Husk Zombie Burster</option>
+
+<option value="2560850" id="field-swarm-monster-hutijin">Hutijin</option>
+
+<option value="16929" id="field-swarm-monster-hydra">Hydra</option>
+
+<option value="2560851" id="field-swarm-monster-hydroloth">Hydroloth</option>
+
+<option value="16930" id="field-swarm-monster-hyena">Hyena</option>
+
+<option value="16931" id="field-swarm-monster-ice-devil">Ice Devil</option>
+
+<option value="301719" id="field-swarm-monster-ice-devil-spear-variant">Ice Devil (Spear Variant)</option>
+
+<option value="301718" id="field-swarm-monster-ice-devil-summoner-variant">Ice Devil (Summoner Variant)</option>
+
+<option value="16932" id="field-swarm-monster-ice-mephit">Ice Mephit</option>
+
+<option value="301790" id="field-swarm-monster-ice-mephit-summoner-variant">Ice Mephit (Summoner Variant)</option>
+
+<option value="2560852" id="field-swarm-monster-illusionist-wizard">Illusionist Wizard</option>
+
+<option value="16933" id="field-swarm-monster-imp">Imp</option>
+
+<option value="301723" id="field-swarm-monster-imp-familiar-variant">Imp (Familiar Variant)</option>
+
+<option value="257235" id="field-swarm-monster-incubus">Incubus</option>
+
+<option value="17163" id="field-swarm-monster-intellect-devourer">Intellect Devourer</option>
+
+<option value="16934" id="field-swarm-monster-invisible-stalker">Invisible Stalker</option>
+
+<option value="16935" id="field-swarm-monster-iron-golem">Iron Golem</option>
+
+<option value="744319" id="field-swarm-monster-ishel">Ishel</option>
+
+<option value="16936" id="field-swarm-monster-jackal">Jackal</option>
+
+<option value="17164" id="field-swarm-monster-jackalwere">Jackalwere</option>
+
+<option value="360886" id="field-swarm-monster-jelayne">Jelayne</option>
+
+<option value="359295" id="field-swarm-monster-jim-darkmagic">Jim Darkmagic</option>
+
+<option value="2560853" id="field-swarm-monster-juiblex">Juiblex</option>
+
+<option value="1233283" id="field-swarm-monster-juvenile-mimic">Juvenile Mimic</option>
+
+<option value="359423" id="field-swarm-monster-kthriss-drowb">K’thriss Drow’b</option>
+
+<option value="744320" id="field-swarm-monster-karkethzerethzerus-the-sable-despoiler">Karkethzerethzerus, the Sable Despoiler</option>
+
+<option value="360024" id="field-swarm-monster-keg-robot">Keg Robot</option>
+
+<option value="17165" id="field-swarm-monster-kenku">Kenku</option>
+
+<option value="16937" id="field-swarm-monster-killer-whale">Killer Whale</option>
+
+<option value="287862" id="field-swarm-monster-king-grol">King Grol</option>
+
+<option value="2560854" id="field-swarm-monster-ki-rin">Ki-rin</option>
+
+<option value="16938" id="field-swarm-monster-knight">Knight</option>
+
+<option value="16939" id="field-swarm-monster-kobold">Kobold</option>
+
+<option value="2560855" id="field-swarm-monster-kobold-dragonshield">Kobold Dragonshield</option>
+
+<option value="2560856" id="field-swarm-monster-kobold-inventor">Kobold Inventor</option>
+
+<option value="2560857" id="field-swarm-monster-kobold-scale-sorcerer">Kobold Scale Sorcerer</option>
+
+<option value="744321" id="field-swarm-monster-kobold-underling">Kobold Underling</option>
+
+<option value="17279" id="field-swarm-monster-korred">Korred</option>
+
+<option value="16940" id="field-swarm-monster-kraken">Kraken</option>
+
+<option value="2560858" id="field-swarm-monster-kraken-priest">Kraken Priest</option>
+
+<option value="2560859" id="field-swarm-monster-kruthik-hive-lord">Kruthik Hive Lord</option>
+
+<option value="17166" id="field-swarm-monster-kuo-toa">Kuo-toa</option>
+
+<option value="17167" id="field-swarm-monster-kuo-toa-archpriest">Kuo-toa Archpriest</option>
+
+<option value="17170" id="field-swarm-monster-kuo-toa-monitor">Kuo-toa Monitor</option>
+
+<option value="17169" id="field-swarm-monster-kuo-toa-whip">Kuo-toa Whip</option>
+
+<option value="295024" id="field-swarm-monster-lacedon">Lacedon</option>
+
+<option value="16941" id="field-swarm-monster-lamia">Lamia</option>
+
+<option value="27752" id="field-swarm-monster-larva">Larva</option>
+
+<option value="16942" id="field-swarm-monster-lemure">Lemure</option>
+
+<option value="2560860" id="field-swarm-monster-leucrotta">Leucrotta</option>
+
+<option value="2560861" id="field-swarm-monster-leviathan">Leviathan</option>
+
+<option value="287852" id="field-swarm-monster-lhupo">Lhupo</option>
+
+<option value="16943" id="field-swarm-monster-lich">Lich</option>
+
+<option value="382311" id="field-swarm-monster-ligotti">Ligotti</option>
+
+<option value="16944" id="field-swarm-monster-lion">Lion</option>
+
+<option value="16945" id="field-swarm-monster-lizard">Lizard</option>
+
+<option value="17172" id="field-swarm-monster-lizard-king-queen">Lizard King/Queen</option>
+
+<option value="16946" id="field-swarm-monster-lizardfolk">Lizardfolk</option>
+
+<option value="17171" id="field-swarm-monster-lizardfolk-shaman">Lizardfolk Shaman</option>
+
+<option value="2560862" id="field-swarm-monster-lonely-sorrowsworn">Lonely Sorrowsworn</option>
+
+<option value="2560863" id="field-swarm-monster-lost-sorrowsworn">Lost Sorrowsworn</option>
+
+<option value="16947" id="field-swarm-monster-mage">Mage</option>
+
+<option value="16948" id="field-swarm-monster-magma-mephit">Magma Mephit</option>
+
+<option value="301798" id="field-swarm-monster-magma-mephit-summoner-variant">Magma Mephit (Summoner Variant)</option>
+
+<option value="16949" id="field-swarm-monster-magmin">Magmin</option>
+
+<option value="2560864" id="field-swarm-monster-male-steeder">Male Steeder</option>
+
+<option value="16950" id="field-swarm-monster-mammoth">Mammoth</option>
+
+<option value="17213" id="field-swarm-monster-manes">Manes</option>
+
+<option value="16951" id="field-swarm-monster-manticore">Manticore</option>
+
+<option value="17143" id="field-swarm-monster-marid">Marid</option>
+
+<option value="16952" id="field-swarm-monster-marilith">Marilith</option>
+
+<option value="301638" id="field-swarm-monster-marilith-summoner-variant">Marilith (Summoner Variant)</option>
+
+<option value="2560865" id="field-swarm-monster-martial-arts-adept">Martial Arts Adept</option>
+
+<option value="2560866" id="field-swarm-monster-marut">Marut</option>
+
+<option value="2560867" id="field-swarm-monster-master-thief">Master Thief</option>
+
+<option value="16953" id="field-swarm-monster-mastiff">Mastiff</option>
+
+<option value="2560868" id="field-swarm-monster-maurezhi">Maurezhi</option>
+
+<option value="2560869" id="field-swarm-monster-maw-demon">Maw Demon</option>
+
+<option value="2560870" id="field-swarm-monster-meazel">Meazel</option>
+
+<option value="360945" id="field-swarm-monster-mechachimera">Mechachimera</option>
+
+<option value="16954" id="field-swarm-monster-medusa">Medusa</option>
+
+<option value="2560871" id="field-swarm-monster-meenlock">Meenlock</option>
+
+<option value="16955" id="field-swarm-monster-merfolk">Merfolk</option>
+
+<option value="2560872" id="field-swarm-monster-merregon">Merregon</option>
+
+<option value="2560873" id="field-swarm-monster-merrenoloth">Merrenoloth</option>
+
+<option value="16956" id="field-swarm-monster-merrow">Merrow</option>
+
+<option value="744322" id="field-swarm-monster-merrow-shallowpriest">Merrow Shallowpriest</option>
+
+<option value="17124" id="field-swarm-monster-mezzoloth">Mezzoloth</option>
+
+<option value="301437" id="field-swarm-monster-mezzoloth-summoner-variant">Mezzoloth (summoner variant)</option>
+
+<option value="1241995" id="field-swarm-monster-mighty-servant-of-leuk-o">Mighty Servant of Leuk-o</option>
+
+<option value="16957" id="field-swarm-monster-mimic">Mimic</option>
+
+<option value="17104" id="field-swarm-monster-mind-flayer">Mind Flayer</option>
+
+<option value="17175" id="field-swarm-monster-mind-flayer-arcanist">Mind Flayer Arcanist</option>
+
+<option value="3896002" id="field-swarm-monster-minds-eye">Mind's Eye</option>
+
+<option value="2560874" id="field-swarm-monster-mindwitness">Mindwitness</option>
+
+<option value="16958" id="field-swarm-monster-minotaur">Minotaur</option>
+
+<option value="16959" id="field-swarm-monster-minotaur-skeleton">Minotaur Skeleton</option>
+
+<option value="2560875" id="field-swarm-monster-moloch">Moloch</option>
+
+<option value="2560877" id="field-swarm-monster-molydeus">Molydeus</option>
+
+<option value="2560876" id="field-swarm-monster-molydeus-summoner-variant">Molydeus (Summoner Variant)</option>
+
+<option value="17176" id="field-swarm-monster-monodrone">Monodrone</option>
+
+<option value="744323" id="field-swarm-monster-moorbounder">Moorbounder</option>
+
+<option value="359335" id="field-swarm-monster-morgaen">Môrgæn</option>
+
+<option value="2560878" id="field-swarm-monster-morkoth">Morkoth</option>
+
+<option value="22024" id="field-swarm-monster-mormesk-the-wraith">Mormesk the Wraith</option>
+
+<option value="744324" id="field-swarm-monster-mossback-steward">Mossback Steward</option>
+
+<option value="2560879" id="field-swarm-monster-mouth-of-grolantor">Mouth of Grolantor</option>
+
+<option value="17173" id="field-swarm-monster-mud-mephit">Mud Mephit</option>
+
+<option value="301808" id="field-swarm-monster-mud-mephit-summoner-variant">Mud Mephit (Summoner Variant)</option>
+
+<option value="16960" id="field-swarm-monster-mule">Mule</option>
+
+<option value="16961" id="field-swarm-monster-mummy">Mummy</option>
+
+<option value="16962" id="field-swarm-monster-mummy-lord">Mummy Lord</option>
+
+<option value="17183" id="field-swarm-monster-myconid-adult">Myconid Adult</option>
+
+<option value="17184" id="field-swarm-monster-myconid-sovereign">Myconid Sovereign</option>
+
+<option value="17181" id="field-swarm-monster-myconid-sprout">Myconid Sprout</option>
+
+<option value="2287021" id="field-swarm-monster-myrddraal">Myrddraal</option>
+
+<option value="2560880" id="field-swarm-monster-nabassu">Nabassu</option>
+
+<option value="2560881" id="field-swarm-monster-nagpa">Nagpa</option>
+
+<option value="16963" id="field-swarm-monster-nalfeshnee">Nalfeshnee</option>
+
+<option value="301651" id="field-swarm-monster-nalfeshnee-summoner-variant">Nalfeshnee (Summoner Variant)</option>
+
+<option value="2560882" id="field-swarm-monster-narzugon">Narzugon</option>
+
+<option value="2560883" id="field-swarm-monster-necromancer-wizard">Necromancer Wizard</option>
+
+<option value="17215" id="field-swarm-monster-needle-blight">Needle Blight</option>
+
+<option value="2560886" id="field-swarm-monster-neogi">Neogi</option>
+
+<option value="2560884" id="field-swarm-monster-neogi-hatchling">Neogi Hatchling</option>
+
+<option value="2560885" id="field-swarm-monster-neogi-master">Neogi Master</option>
+
+<option value="2560887" id="field-swarm-monster-neothelid">Neothelid</option>
+
+<option value="744325" id="field-swarm-monster-nergaliid">Nergaliid</option>
+
+<option value="22027" id="field-swarm-monster-nezznar-the-black-spider">Nezznar the Black Spider</option>
+
+<option value="16965" id="field-swarm-monster-night-hag">Night Hag</option>
+
+<option value="301755" id="field-swarm-monster-night-hag-coven-variant">Night Hag (Coven Variant)</option>
+
+<option value="16964" id="field-swarm-monster-nightmare">Nightmare</option>
+
+<option value="2506156" id="field-swarm-monster-nightmare-beast">Nightmare Beast</option>
+
+<option value="2560888" id="field-swarm-monster-nightwalker">Nightwalker</option>
+
+<option value="2560889" id="field-swarm-monster-nilbog">Nilbog</option>
+
+<option value="2383598" id="field-swarm-monster-nine-lives-carlton">Nine Lives Carlton</option>
+
+<option value="16966" id="field-swarm-monster-noble">Noble</option>
+
+<option value="17092" id="field-swarm-monster-nothic">Nothic</option>
+
+<option value="2560890" id="field-swarm-monster-nupperibo">Nupperibo</option>
+
+<option value="17125" id="field-swarm-monster-nycaloth">Nycaloth</option>
+
+<option value="277215" id="field-swarm-monster-nycaloth-summoner-variant">Nycaloth (summoner variant)</option>
+
+<option value="359869" id="field-swarm-monster-oak-truestrike">Oak Truestrike</option>
+
+<option value="2560891" id="field-swarm-monster-oblex-spawn">Oblex Spawn</option>
+
+<option value="16967" id="field-swarm-monster-ochre-jelly">Ochre Jelly</option>
+
+<option value="16968" id="field-swarm-monster-octopus">Octopus</option>
+
+<option value="16969" id="field-swarm-monster-ogre">Ogre</option>
+
+<option value="2560892" id="field-swarm-monster-ogre-battering-ram">Ogre Battering Ram</option>
+
+<option value="2560893" id="field-swarm-monster-ogre-bolt-launcher">Ogre Bolt Launcher</option>
+
+<option value="2560894" id="field-swarm-monster-ogre-chain-brute">Ogre Chain Brute</option>
+
+<option value="2560895" id="field-swarm-monster-ogre-howdah">Ogre Howdah</option>
+
+<option value="744326" id="field-swarm-monster-ogre-lord-buhfal-ii">Ogre Lord Buhfal II</option>
+
+<option value="16970" id="field-swarm-monster-ogre-zombie">Ogre Zombie</option>
+
+<option value="2560896" id="field-swarm-monster-oinoloth">Oinoloth</option>
+
+<option value="744327" id="field-swarm-monster-old-croaker">Old Croaker</option>
+
+<option value="359278" id="field-swarm-monster-omin-dran">Omin Dran</option>
+
+<option value="16971" id="field-swarm-monster-oni">Oni</option>
+
+<option value="360961" id="field-swarm-monster-onyx">Onyx</option>
+
+<option value="744328" id="field-swarm-monster-oracs-the-enduring">Oracs the Enduring</option>
+
+<option value="16972" id="field-swarm-monster-orc">Orc</option>
+
+<option value="17188" id="field-swarm-monster-orc-eye-of-gruumsh">Orc Eye of Gruumsh</option>
+
+<option value="17187" id="field-swarm-monster-orc-war-chief">Orc War Chief</option>
+
+<option value="2560897" id="field-swarm-monster-orcus">Orcus</option>
+
+<option value="17189" id="field-swarm-monster-orog">Orog</option>
+
+<option value="2560898" id="field-swarm-monster-orthon">Orthon</option>
+
+<option value="16973" id="field-swarm-monster-otyugh">Otyugh</option>
+
+<option value="16974" id="field-swarm-monster-owl">Owl</option>
+
+<option value="16975" id="field-swarm-monster-owlbear">Owlbear</option>
+
+<option value="2560899" id="field-swarm-monster-ox">Ox</option>
+
+<option value="16976" id="field-swarm-monster-panther">Panther</option>
+
+<option value="744329" id="field-swarm-monster-parson-pellinost">Parson Pellinost</option>
+
+<option value="16977" id="field-swarm-monster-pegasus">Pegasus</option>
+
+<option value="359884" id="field-swarm-monster-pendragon-beestinger">Pendragon Beestinger</option>
+
+<option value="17179" id="field-swarm-monster-pentadrone">Pentadrone</option>
+
+<option value="17190" id="field-swarm-monster-peryton">Peryton</option>
+
+<option value="16978" id="field-swarm-monster-phase-spider">Phase Spider</option>
+
+<option value="2560900" id="field-swarm-monster-phoenix">Phoenix</option>
+
+<option value="359893" id="field-swarm-monster-phoenix-anvil">Phoenix Anvil</option>
+
+<option value="17191" id="field-swarm-monster-piercer">Piercer</option>
+
+<option value="2420917" id="field-swarm-monster-pirate-mage">Pirate Mage</option>
+
+<option value="16979" id="field-swarm-monster-pit-fiend">Pit Fiend</option>
+
+<option value="301721" id="field-swarm-monster-pit-fiend-summoner-variant">Pit Fiend (Summoner Variant)</option>
+
+<option value="17192" id="field-swarm-monster-pixie">Pixie</option>
+
+<option value="16980" id="field-swarm-monster-planetar">Planetar</option>
+
+<option value="16981" id="field-swarm-monster-plesiosaurus">Plesiosaurus</option>
+
+<option value="16982" id="field-swarm-monster-poisonous-snake">Poisonous Snake</option>
+
+<option value="16983" id="field-swarm-monster-polar-bear">Polar Bear</option>
+
+<option value="17202" id="field-swarm-monster-poltergeist">Poltergeist</option>
+
+<option value="16984" id="field-swarm-monster-pony">Pony</option>
+
+<option value="359976" id="field-swarm-monster-portentia-dran">Portentia Dran</option>
+
+<option value="16985" id="field-swarm-monster-priest">Priest</option>
+
+<option value="359979" id="field-swarm-monster-prophetess-dran">Prophetess Dran</option>
+
+<option value="16986" id="field-swarm-monster-pseudodragon">Pseudodragon</option>
+
+<option value="301548" id="field-swarm-monster-pseudodragon-familiar-variant">Pseudodragon (familiar variant)</option>
+
+<option value="17186" id="field-swarm-monster-psychic-gray-ooze">Psychic Gray Ooze</option>
+
+<option value="17093" id="field-swarm-monster-pteranodon">Pteranodon</option>
+
+<option value="2506151" id="field-swarm-monster-puppeteer-parasite">Puppeteer Parasite</option>
+
+<option value="16987" id="field-swarm-monster-purple-worm">Purple Worm</option>
+
+<option value="17178" id="field-swarm-monster-quadrone">Quadrone</option>
+
+<option value="17193" id="field-swarm-monster-quaggoth">Quaggoth</option>
+
+<option value="17182" id="field-swarm-monster-quaggoth-spore-servant">Quaggoth Spore Servant</option>
+
+<option value="17194" id="field-swarm-monster-quaggoth-thonot">Quaggoth Thonot</option>
+
+<option value="16988" id="field-swarm-monster-quasit">Quasit</option>
+
+<option value="301663" id="field-swarm-monster-quasit-familiar-variant">Quasit (familiar variant)</option>
+
+<option value="2560901" id="field-swarm-monster-quetzalcoatlus">Quetzalcoatlus</option>
+
+<option value="17299" id="field-swarm-monster-quickling">Quickling</option>
+
+<option value="16989" id="field-swarm-monster-quipper">Quipper</option>
+
+<option value="744330" id="field-swarm-monster-raegrin-mau">Raegrin Mau</option>
+
+<option value="16990" id="field-swarm-monster-rakshasa">Rakshasa</option>
+
+<option value="16991" id="field-swarm-monster-rat">Rat</option>
+
+<option value="16992" id="field-swarm-monster-raven">Raven</option>
+
+<option value="2560902" id="field-swarm-monster-red-abishai">Red Abishai</option>
+
+<option value="16993" id="field-swarm-monster-red-dragon-wyrmling">Red Dragon Wyrmling</option>
+
+<option value="2560903" id="field-swarm-monster-red-guard-drake">Red Guard Drake</option>
+
+<option value="17116" id="field-swarm-monster-red-slaad">Red Slaad</option>
+
+<option value="301498" id="field-swarm-monster-red-slaad-control-gem-variant">Red Slaad (control gem variant)</option>
+
+<option value="22030" id="field-swarm-monster-redbrand-ruffian">Redbrand Ruffian</option>
+
+<option value="17300" id="field-swarm-monster-redcap">Redcap</option>
+
+<option value="16994" id="field-swarm-monster-reef-shark">Reef Shark</option>
+
+<option value="1240437" id="field-swarm-monster-reflections">Reflections</option>
+
+<option value="16995" id="field-swarm-monster-remorhaz">Remorhaz</option>
+
+<option value="360938" id="field-swarm-monster-replica-duodrone">Replica Duodrone</option>
+
+<option value="360934" id="field-swarm-monster-replica-monodrone">Replica Monodrone</option>
+
+<option value="360944" id="field-swarm-monster-replica-pentadrone">Replica Pentadrone</option>
+
+<option value="360940" id="field-swarm-monster-replica-quadrone">Replica Quadrone</option>
+
+<option value="360939" id="field-swarm-monster-replica-tridrone">Replica Tridrone</option>
+
+<option value="2560904" id="field-swarm-monster-retriever">Retriever</option>
+
+<option value="17196" id="field-swarm-monster-revenant">Revenant</option>
+
+<option value="16996" id="field-swarm-monster-rhinoceros">Rhinoceros</option>
+
+<option value="16997" id="field-swarm-monster-riding-horse">Riding Horse</option>
+
+<option value="16998" id="field-swarm-monster-roc">Roc</option>
+
+<option value="16999" id="field-swarm-monster-roper">Roper</option>
+
+<option value="359440" id="field-swarm-monster-rosie-beestinger">Rosie Beestinger</option>
+
+<option value="2560905" id="field-swarm-monster-rot-troll">Rot Troll</option>
+
+<option value="17000" id="field-swarm-monster-rug-of-smothering">Rug of Smothering</option>
+
+<option value="17001" id="field-swarm-monster-rust-monster">Rust Monster</option>
+
+<option value="2560906" id="field-swarm-monster-rutterkin">Rutterkin</option>
+
+<option value="17002" id="field-swarm-monster-saber-toothed-tiger">Saber-Toothed Tiger</option>
+
+<option value="2560907" id="field-swarm-monster-sacred-statue">Sacred Statue</option>
+
+<option value="17003" id="field-swarm-monster-sahuagin">Sahuagin</option>
+
+<option value="17198" id="field-swarm-monster-sahuagin-baron">Sahuagin Baron</option>
+
+<option value="17197" id="field-swarm-monster-sahuagin-priestess">Sahuagin Priestess</option>
+
+<option value="744332" id="field-swarm-monster-sahuagin-warlock-of-ukotoa">Sahuagin Warlock of Uk'otoa</option>
+
+<option value="744331" id="field-swarm-monster-sahuagin-warlock-of-ukotoa-variant">Sahuagin Warlock of Uk'otoa (variant)</option>
+
+<option value="17004" id="field-swarm-monster-salamander">Salamander</option>
+
+<option value="17005" id="field-swarm-monster-satyr">Satyr</option>
+
+<option value="781675" id="field-swarm-monster-satyr-variant">Satyr (Variant)</option>
+
+<option value="17200" id="field-swarm-monster-scarecrow">Scarecrow</option>
+
+<option value="17006" id="field-swarm-monster-scorpion">Scorpion</option>
+
+<option value="17007" id="field-swarm-monster-scout">Scout</option>
+
+<option value="744333" id="field-swarm-monster-sea-fury">Sea Fury</option>
+
+<option value="17008" id="field-swarm-monster-sea-hag">Sea Hag</option>
+
+<option value="301760" id="field-swarm-monster-sea-hag-coven-variant">Sea Hag (Coven Variant)</option>
+
+<option value="17009" id="field-swarm-monster-sea-horse">Sea Horse</option>
+
+<option value="2560908" id="field-swarm-monster-sea-spawn">Sea Spawn</option>
+
+<option value="2560909" id="field-swarm-monster-shadar-kai-gloom-weaver">Shadar-kai Gloom Weaver</option>
+
+<option value="2560910" id="field-swarm-monster-shadar-kai-shadow-dancer">Shadar-kai Shadow Dancer</option>
+
+<option value="2560911" id="field-swarm-monster-shadar-kai-soul-monger">Shadar-kai Soul Monger</option>
+
+<option value="17010" id="field-swarm-monster-shadow">Shadow</option>
+
+<option value="17131" id="field-swarm-monster-shadow-demon">Shadow Demon</option>
+
+<option value="2560913" id="field-swarm-monster-shadow-mastiff">Shadow Mastiff</option>
+
+<option value="2560912" id="field-swarm-monster-shadow-mastiff-alpha">Shadow Mastiff Alpha</option>
+
+<option value="744334" id="field-swarm-monster-shadowghast">Shadowghast</option>
+
+<option value="17011" id="field-swarm-monster-shambling-mound">Shambling Mound</option>
+
+<option value="744335" id="field-swarm-monster-sharkbody-abomination">Sharkbody Abomination</option>
+
+<option value="17012" id="field-swarm-monster-shield-guardian">Shield Guardian</option>
+
+<option value="2560914" id="field-swarm-monster-shoosuva">Shoosuva</option>
+
+<option value="17013" id="field-swarm-monster-shrieker">Shrieker</option>
+
+<option value="2560915" id="field-swarm-monster-sibriex">Sibriex</option>
+
+<option value="22033" id="field-swarm-monster-sildar-hallwinter">Sildar Hallwinter</option>
+
+<option value="17014" id="field-swarm-monster-silver-dragon-wyrmling">Silver Dragon Wyrmling</option>
+
+<option value="3342712" id="field-swarm-monster-simon-aumar">Simon Aumar</option>
+
+<option value="17015" id="field-swarm-monster-skeleton">Skeleton</option>
+
+<option value="744336" id="field-swarm-monster-sken-zabriss">Sken Zabriss</option>
+
+<option value="744337" id="field-swarm-monster-skra-sorsk">Skr’a S’orsk</option>
+
+<option value="2560916" id="field-swarm-monster-skulk">Skulk</option>
+
+<option value="2560917" id="field-swarm-monster-skull-lord">Skull Lord</option>
+
+<option value="17117" id="field-swarm-monster-slaad-tadpole">Slaad Tadpole</option>
+
+<option value="2560918" id="field-swarm-monster-slithering-tracker">Slithering Tracker</option>
+
+<option value="17174" id="field-swarm-monster-smoke-mephit">Smoke Mephit</option>
+
+<option value="301811" id="field-swarm-monster-smoke-mephit-summoner-variant">Smoke Mephit (Summoner Variant)</option>
+
+<option value="287859" id="field-swarm-monster-snarl">Snarl</option>
+
+<option value="3342713" id="field-swarm-monster-sofina">Sofina</option>
+
+<option value="17016" id="field-swarm-monster-solar">Solar</option>
+
+<option value="2560919" id="field-swarm-monster-spawn-of-kyuss">Spawn of Kyuss</option>
+
+<option value="17094" id="field-swarm-monster-spectator">Spectator</option>
+
+<option value="17017" id="field-swarm-monster-specter">Specter</option>
+
+<option value="17018" id="field-swarm-monster-spider">Spider</option>
+
+<option value="17214" id="field-swarm-monster-spined-devil">Spined Devil</option>
+
+<option value="17019" id="field-swarm-monster-spirit-naga">Spirit Naga</option>
+
+<option value="2560920" id="field-swarm-monster-spirit-troll">Spirit Troll</option>
+
+<option value="360031" id="field-swarm-monster-splugoth-the-returned">Splugoth the Returned</option>
+
+<option value="2560921" id="field-swarm-monster-spring-eladrin">Spring Eladrin</option>
+
+<option value="17020" id="field-swarm-monster-sprite">Sprite</option>
+
+<option value="17021" id="field-swarm-monster-spy">Spy</option>
+
+<option value="2506150" id="field-swarm-monster-star-lancer">Star Lancer</option>
+
+<option value="2560922" id="field-swarm-monster-star-spawn-grue">Star Spawn Grue</option>
+
+<option value="2560923" id="field-swarm-monster-star-spawn-hulk">Star Spawn Hulk</option>
+
+<option value="2560924" id="field-swarm-monster-star-spawn-larva-mage">Star Spawn Larva Mage</option>
+
+<option value="2560925" id="field-swarm-monster-star-spawn-mangler">Star Spawn Mangler</option>
+
+<option value="2560926" id="field-swarm-monster-star-spawn-seer">Star Spawn Seer</option>
+
+<option value="17022" id="field-swarm-monster-steam-mephit">Steam Mephit</option>
+
+<option value="301813" id="field-swarm-monster-steam-mephit-summoner-variant">Steam Mephit (Summoner Variant)</option>
+
+<option value="2287028" id="field-swarm-monster-steel-inquisitor">Steel Inquisitor</option>
+
+<option value="2560927" id="field-swarm-monster-steel-predator">Steel Predator</option>
+
+<option value="2560928" id="field-swarm-monster-stegosaurus">Stegosaurus</option>
+
+<option value="2560929" id="field-swarm-monster-stench-kow">Stench Kow</option>
+
+<option value="17023" id="field-swarm-monster-stirge">Stirge</option>
+
+<option value="360894" id="field-swarm-monster-stomping-foot">Stomping Foot</option>
+
+<option value="2560930" id="field-swarm-monster-stone-cursed">Stone Cursed</option>
+
+<option value="17024" id="field-swarm-monster-stone-giant">Stone Giant</option>
+
+<option value="2560931" id="field-swarm-monster-stone-giant-dreamwalker">Stone Giant Dreamwalker</option>
+
+<option value="17025" id="field-swarm-monster-stone-golem">Stone Golem</option>
+
+<option value="17026" id="field-swarm-monster-storm-giant">Storm Giant</option>
+
+<option value="2560932" id="field-swarm-monster-storm-giant-quintessent">Storm Giant Quintessent</option>
+
+<option value="17027" id="field-swarm-monster-succubus">Succubus</option>
+
+<option value="2560933" id="field-swarm-monster-summer-eladrin">Summer Eladrin</option>
+
+<option value="17028" id="field-swarm-monster-swarm-of-bats">Swarm of Bats</option>
+
+<option value="2560934" id="field-swarm-monster-swarm-of-cranium-rats">Swarm of Cranium Rats</option>
+
+<option value="17029" id="field-swarm-monster-swarm-of-insects">Swarm of Insects</option>
+
+<option value="301407" id="field-swarm-monster-swarm-of-insects-beetles">Swarm of Insects (Beetles)</option>
+
+<option value="301411" id="field-swarm-monster-swarm-of-insects-centipedes">Swarm of Insects (Centipedes)</option>
+
+<option value="301414" id="field-swarm-monster-swarm-of-insects-spiders">Swarm of Insects (Spiders)</option>
+
+<option value="301415" id="field-swarm-monster-swarm-of-insects-wasps">Swarm of Insects (Wasps)</option>
+
+<option value="17030" id="field-swarm-monster-swarm-of-poisonous-snakes">Swarm of Poisonous Snakes</option>
+
+<option value="17031" id="field-swarm-monster-swarm-of-quippers">Swarm of Quippers</option>
+
+<option value="17032" id="field-swarm-monster-swarm-of-rats">Swarm of Rats</option>
+
+<option value="17033" id="field-swarm-monster-swarm-of-ravens">Swarm of Ravens</option>
+
+<option value="2560935" id="field-swarm-monster-swarm-of-rot-grubs">Swarm of Rot Grubs</option>
+
+<option value="744338" id="field-swarm-monster-swarm-of-undead-snakes">Swarm of Undead Snakes</option>
+
+<option value="2560936" id="field-swarm-monster-swashbuckler">Swashbuckler</option>
+
+<option value="744339" id="field-swarm-monster-swavain-basilisk">Swavain Basilisk</option>
+
+<option value="2407570" id="field-swarm-monster-sword-wraith-commander">Sword Wraith Commander</option>
+
+<option value="2407571" id="field-swarm-monster-sword-wraith-warrior">Sword Wraith Warrior</option>
+
+<option value="2560937" id="field-swarm-monster-tanarukk">Tanarukk</option>
+
+<option value="287885" id="field-swarm-monster-targor-bloodsword">Targor Bloodsword</option>
+
+<option value="17034" id="field-swarm-monster-tarrasque">Tarrasque</option>
+
+<option value="3895782" id="field-swarm-monster-the-blight">The Blight</option>
+
+<option value="3895655" id="field-swarm-monster-the-hierarch">The Hierarch</option>
+
+<option value="3895593" id="field-swarm-monster-the-intoner">The Intoner</option>
+
+<option value="3895813" id="field-swarm-monster-the-necromaton-base-model">The Necromaton (base model)</option>
+
+<option value="3895835" id="field-swarm-monster-the-necromaton-bulldozer-model">The Necromaton (bulldozer model)</option>
+
+<option value="3895819" id="field-swarm-monster-the-necromaton-flying-model">The Necromaton (flying model)</option>
+
+<option value="3895867" id="field-swarm-monster-the-scourge">The Scourge</option>
+
+<option value="2560938" id="field-swarm-monster-thorny-vegepygmy">Thorny Vegepygmy</option>
+
+<option value="744340" id="field-swarm-monster-three-earrings">Three Earrings</option>
+
+<option value="17203" id="field-swarm-monster-thri-kreen">Thri-kreen</option>
+
+<option value="301493" id="field-swarm-monster-thri-kreen-psionics-variant">Thri-kreen (psionics variant)</option>
+
+<option value="301482" id="field-swarm-monster-thri-kreen-weapons-variant">Thri-kreen (weapons variant)</option>
+
+<option value="17035" id="field-swarm-monster-thug">Thug</option>
+
+<option value="17036" id="field-swarm-monster-tiger">Tiger</option>
+
+<option value="45616" id="field-swarm-monster-tiny-servant">Tiny Servant</option>
+
+<option value="2560939" id="field-swarm-monster-titivilus">Titivilus</option>
+
+<option value="2560940" id="field-swarm-monster-tlincalli">Tlincalli</option>
+
+<option value="2560942" id="field-swarm-monster-tortle">Tortle</option>
+
+<option value="2560941" id="field-swarm-monster-tortle-druid">Tortle Druid</option>
+
+<option value="2560943" id="field-swarm-monster-transmuter-wizard">Transmuter Wizard</option>
+
+<option value="2560944" id="field-swarm-monster-trapper">Trapper</option>
+
+<option value="17037" id="field-swarm-monster-treant">Treant</option>
+
+<option value="17038" id="field-swarm-monster-tribal-warrior">Tribal Warrior</option>
+
+<option value="17039" id="field-swarm-monster-triceratops">Triceratops</option>
+
+<option value="17177" id="field-swarm-monster-tridrone">Tridrone</option>
+
+<option value="17204" id="field-swarm-monster-troglodyte">Troglodyte</option>
+
+<option value="17040" id="field-swarm-monster-troll">Troll</option>
+
+<option value="301476" id="field-swarm-monster-troll-variant">Troll (variant)</option>
+
+<option value="17095" id="field-swarm-monster-twig-blight">Twig Blight</option>
+
+<option value="360954" id="field-swarm-monster-two-dry-cloaks">Two Dry Cloaks</option>
+
+<option value="17041" id="field-swarm-monster-tyrannosaurus-rex">Tyrannosaurus Rex</option>
+
+<option value="744341" id="field-swarm-monster-udaak">Udaak</option>
+
+<option value="2560945" id="field-swarm-monster-ulitharid">Ulitharid</option>
+
+<option value="17126" id="field-swarm-monster-ultroloth">Ultroloth</option>
+
+<option value="301447" id="field-swarm-monster-ultroloth-summoner-variant">Ultroloth (summoner variant)</option>
+
+<option value="17205" id="field-swarm-monster-umber-hulk">Umber Hulk</option>
+
+<option value="360926" id="field-swarm-monster-undead-cockatrice">Undead Cockatrice</option>
+
+<option value="17042" id="field-swarm-monster-unicorn">Unicorn</option>
+
+<option value="17043" id="field-swarm-monster-vampire">Vampire</option>
+
+<option value="17044" id="field-swarm-monster-vampire-spawn">Vampire Spawn</option>
+
+<option value="17207" id="field-swarm-monster-vampire-spellcaster">Vampire Spellcaster</option>
+
+<option value="17206" id="field-swarm-monster-vampire-warrior">Vampire Warrior</option>
+
+<option value="2560946" id="field-swarm-monster-vampiric-mist">Vampiric Mist</option>
+
+<option value="2560947" id="field-swarm-monster-vargouille">Vargouille</option>
+
+<option value="2590978" id="field-swarm-monster-vecna-the-archlich">Vecna the Archlich</option>
+
+<option value="2560949" id="field-swarm-monster-vegepygmy">Vegepygmy</option>
+
+<option value="2560948" id="field-swarm-monster-vegepygmy-chief">Vegepygmy Chief</option>
+
+<option value="2560950" id="field-swarm-monster-velociraptor">Velociraptor</option>
+
+<option value="2560951" id="field-swarm-monster-venom-troll">Venom Troll</option>
+
+<option value="17045" id="field-swarm-monster-veteran">Veteran</option>
+
+<option value="359321" id="field-swarm-monster-viari">Viari</option>
+
+<option value="17216" id="field-swarm-monster-vine-blight">Vine Blight</option>
+
+<option value="17046" id="field-swarm-monster-violet-fungus">Violet Fungus</option>
+
+<option value="745162" id="field-swarm-monster-vox-seeker">Vox Seeker</option>
+
+<option value="17047" id="field-swarm-monster-vrock">Vrock</option>
+
+<option value="301654" id="field-swarm-monster-vrock-summoner-variant">Vrock (Summoner Variant)</option>
+
+<option value="17048" id="field-swarm-monster-vulture">Vulture</option>
+
+<option value="359857" id="field-swarm-monster-walnut-dankgrass">Walnut Dankgrass</option>
+
+<option value="2560952" id="field-swarm-monster-war-priest">War Priest</option>
+
+<option value="17049" id="field-swarm-monster-warhorse">Warhorse</option>
+
+<option value="17050" id="field-swarm-monster-warhorse-skeleton">Warhorse Skeleton</option>
+
+<option value="2560953" id="field-swarm-monster-warlock-of-the-archfey">Warlock of the Archfey</option>
+
+<option value="2560954" id="field-swarm-monster-warlock-of-the-fiend">Warlock of the Fiend</option>
+
+<option value="2560955" id="field-swarm-monster-warlock-of-the-great-old-one">Warlock of the Great Old One</option>
+
+<option value="2560956" id="field-swarm-monster-warlord">Warlord</option>
+
+<option value="2560957" id="field-swarm-monster-wastrilith">Wastrilith</option>
+
+<option value="17051" id="field-swarm-monster-water-elemental">Water Elemental</option>
+
+<option value="2560958" id="field-swarm-monster-water-elemental-myrmidon">Water Elemental Myrmidon</option>
+
+<option value="17208" id="field-swarm-monster-water-weird">Water Weird</option>
+
+<option value="17052" id="field-swarm-monster-weasel">Weasel</option>
+
+<option value="17053" id="field-swarm-monster-werebear">Werebear</option>
+
+<option value="17054" id="field-swarm-monster-wereboar">Wereboar</option>
+
+<option value="17055" id="field-swarm-monster-wererat">Wererat</option>
+
+<option value="17056" id="field-swarm-monster-weretiger">Weretiger</option>
+
+<option value="17057" id="field-swarm-monster-werewolf">Werewolf</option>
+
+<option value="2560959" id="field-swarm-monster-white-abishai">White Abishai</option>
+
+<option value="17058" id="field-swarm-monster-white-dragon-wyrmling">White Dragon Wyrmling</option>
+
+<option value="2560960" id="field-swarm-monster-white-guard-drake">White Guard Drake</option>
+
+<option value="17059" id="field-swarm-monster-wight">Wight</option>
+
+<option value="17060" id="field-swarm-monster-will-o-wisp">Will-o'-Wisp</option>
+
+<option value="17210" id="field-swarm-monster-winged-kobold">Winged Kobold</option>
+
+<option value="2560961" id="field-swarm-monster-winter-eladrin">Winter Eladrin</option>
+
+<option value="17061" id="field-swarm-monster-winter-wolf">Winter Wolf</option>
+
+<option value="17062" id="field-swarm-monster-wolf">Wolf</option>
+
+<option value="2560962" id="field-swarm-monster-wood-woad">Wood Woad</option>
+
+<option value="17063" id="field-swarm-monster-worg">Worg</option>
+
+<option value="17064" id="field-swarm-monster-wraith">Wraith</option>
+
+<option value="2560963" id="field-swarm-monster-wretched-sorrowsworn">Wretched Sorrowsworn</option>
+
+<option value="17065" id="field-swarm-monster-wyvern">Wyvern</option>
+
+<option value="3342714" id="field-swarm-monster-xenk-yendar">Xenk Yendar</option>
+
+<option value="17066" id="field-swarm-monster-xorn">Xorn</option>
+
+<option value="2560965" id="field-swarm-monster-xvart">Xvart</option>
+
+<option value="2560964" id="field-swarm-monster-xvart-warlock-of-raxivort">Xvart Warlock of Raxivort</option>
+
+<option value="2560966" id="field-swarm-monster-yagnoloth">Yagnoloth</option>
+
+<option value="266410" id="field-swarm-monster-yeemik">Yeemik</option>
+
+<option value="2560967" id="field-swarm-monster-yeenoghu">Yeenoghu</option>
+
+<option value="287856" id="field-swarm-monster-yegg">Yegg</option>
+
+<option value="2560968" id="field-swarm-monster-yeth-hound">Yeth Hound</option>
+
+<option value="17096" id="field-swarm-monster-yeti">Yeti</option>
+
+<option value="744342" id="field-swarm-monster-yeti-allowak-variant">Yeti (Allowak variant)</option>
+
+<option value="2506148" id="field-swarm-monster-yggdrasti">Yggdrasti</option>
+
+<option value="744343" id="field-swarm-monster-yinra-emberwind">Yinra Emberwind</option>
+
+<option value="17127" id="field-swarm-monster-yochlol">Yochlol</option>
+
+<option value="301662" id="field-swarm-monster-yochlol-summoner-variant">Yochlol (Summoner Variant)</option>
+
+<option value="17067" id="field-swarm-monster-young-black-dragon">Young Black Dragon</option>
+
+<option value="17068" id="field-swarm-monster-young-blue-dragon">Young Blue Dragon</option>
+
+<option value="17069" id="field-swarm-monster-young-brass-dragon">Young Brass Dragon</option>
+
+<option value="17070" id="field-swarm-monster-young-bronze-dragon">Young Bronze Dragon</option>
+
+<option value="17071" id="field-swarm-monster-young-copper-dragon">Young Copper Dragon</option>
+
+<option value="17072" id="field-swarm-monster-young-gold-dragon">Young Gold Dragon</option>
+
+<option value="17073" id="field-swarm-monster-young-green-dragon">Young Green Dragon</option>
+
+<option value="2560969" id="field-swarm-monster-young-kruthik">Young Kruthik</option>
+
+<option value="17074" id="field-swarm-monster-young-red-dragon">Young Red Dragon</option>
+
+<option value="17132" id="field-swarm-monster-young-red-shadow-dragon">Young Red Shadow Dragon</option>
+
+<option value="17195" id="field-swarm-monster-young-remorhaz">Young Remorhaz</option>
+
+<option value="17075" id="field-swarm-monster-young-silver-dragon">Young Silver Dragon</option>
+
+<option value="17076" id="field-swarm-monster-young-white-dragon">Young White Dragon</option>
+
+<option value="17121" id="field-swarm-monster-yuan-ti-abomination">Yuan-ti Abomination</option>
+
+<option value="2560970" id="field-swarm-monster-yuan-ti-anathema">Yuan-ti Anathema</option>
+
+<option value="2560971" id="field-swarm-monster-yuan-ti-broodguard">Yuan-ti Broodguard</option>
+
+<option value="17122" id="field-swarm-monster-yuan-ti-malison">Yuan-ti Malison</option>
+
+<option value="301418" id="field-swarm-monster-yuan-ti-malison-type-1">Yuan-ti Malison (Type 1)</option>
+
+<option value="301421" id="field-swarm-monster-yuan-ti-malison-type-2">Yuan-ti Malison (Type 2)</option>
+
+<option value="301425" id="field-swarm-monster-yuan-ti-malison-type-3">Yuan-ti Malison (Type 3)</option>
+
+<option value="2560972" id="field-swarm-monster-yuan-ti-mind-whisperer">Yuan-ti Mind Whisperer</option>
+
+<option value="2560973" id="field-swarm-monster-yuan-ti-nightmare-speaker">Yuan-ti Nightmare Speaker</option>
+
+<option value="2560974" id="field-swarm-monster-yuan-ti-pit-master">Yuan-ti Pit Master</option>
+
+<option value="17123" id="field-swarm-monster-yuan-ti-pureblood">Yuan-ti Pureblood</option>
+
+<option value="2560975" id="field-swarm-monster-zaratan">Zaratan</option>
+
+<option value="2560976" id="field-swarm-monster-zariel">Zariel</option>
+
+<option value="2560977" id="field-swarm-monster-zuggtmoy">Zuggtmoy</option><option value="17077" id="field-swarm-monster-zombie">Zombie</option>
+
+
+

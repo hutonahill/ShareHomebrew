@@ -1,0 +1,56 @@
+
+
+<option value="">—</option>
+    
+<option value="11" id="field-alignment-any-alignment">Any Alignment</option>
+
+<option value="15" id="field-alignment-any-chaotic-alignment">Any Chaotic Alignment</option>
+
+<option value="13" id="field-alignment-any-evil-alignment">Any Evil Alignment</option>
+
+<option value="14" id="field-alignment-any-good-alignment">Any Good Alignment</option>
+
+<option value="16" id="field-alignment-any-lawful-alignment">Any Lawful Alignment</option>
+
+<option value="18" id="field-alignment-any-non-good-alignment">Any Non-Good Alignment</option>
+
+<option value="19" selected="selected" id="field-alignment-any-non-lawful-alignment">Any Non-Lawful Alignment</option>
+
+<option value="9" id="field-alignment-chaotic-evil">Chaotic Evil</option>
+
+<option value="3" id="field-alignment-chaotic-good">Chaotic Good</option>
+
+<option value="6" id="field-alignment-chaotic-neutral">Chaotic Neutral</option>
+
+<option value="7" id="field-alignment-lawful-evil">Lawful Evil</option>
+
+<option value="1" id="field-alignment-lawful-good">Lawful Good</option>
+
+<option value="4" id="field-alignment-lawful-neutral">Lawful Neutral</option>
+
+<option value="5" id="field-alignment-neutral">Neutral</option>
+
+<option value="8" id="field-alignment-neutral-evil">Neutral Evil</option>
+
+<option value="2" id="field-alignment-neutral-good">Neutral Good</option>
+
+<option value="23" id="field-alignment-typically-chaotic-evil">Typically Chaotic Evil</option>
+
+<option value="25" id="field-alignment-typically-chaotic-good">Typically Chaotic Good</option>
+
+<option value="20" id="field-alignment-typically-chaotic-neutral">Typically Chaotic Neutral</option>
+
+<option value="27" id="field-alignment-typically-lawful-evil">Typically Lawful Evil</option>
+
+<option value="22" id="field-alignment-typically-lawful-good">Typically Lawful Good</option>
+
+<option value="28" id="field-alignment-typically-lawful-neutral">Typically Lawful Neutral</option>
+
+<option value="26" id="field-alignment-typically-neutral">Typically Neutral</option>
+
+<option value="24" id="field-alignment-typically-neutral-evil">Typically Neutral Evil</option>
+
+<option value="21" id="field-alignment-typically-neutral-good">Typically Neutral Good</option>
+
+<option value="10" id="field-alignment-unaligned">Unaligned</option>
+

@@ -1,0 +1,301 @@
+Monster Name
+	Nullable: False
+	Type: string
+	id: `name="Name"`
+
+Version:
+	Nullable: True
+	Type: stirng
+	id: `name="version"`
+	
+Monster Type:
+	Nullable: False
+	Type: Options
+		Averration
+		Beast
+		Celestial
+		Construct
+		Dragon
+		Elemental
+		Fey
+		Fiend
+		Giant
+		Humanoid
+		Monstrosity
+		Ooze
+		Plant
+		Undead
+		unknown
+	id: `name="monster-type"`
+	
+Monster SUb-Type(s):
+	Nullable: True
+	Type: Multiple Options
+		unable to easily scrape options.
+	id: `id="s2id_field-monster-sub-type"`
+	
+Size
+	Nullable: False
+	Type: Options
+		Gargantuan
+		Huge
+		Large
+		Medium
+		Medium or Small
+		Small
+		Tiny
+	id: `name="size"`
+	
+Swarm Monster Type:
+	Nullable: True
+	Type: Options
+		see Swarm Monster Type Options.txt. File needs to be parced.
+	id: `name="swarm-monster"`
+	
+Alignment:
+	Nullable: True
+	Type: Options
+		see Alignment Options.txt. file needs to be parced.
+	id: `name="alignment"`
+	
+Chalange Rating:
+	Nullable: False
+	Type: Options
+		0
+		1/8
+		1/4
+		1/2
+		1
+		2
+		3
+		4
+		5
+		6
+		7
+		8
+		9
+		10
+		11
+		12
+		13
+		14
+		15
+		16
+		17
+		18
+		19
+		20
+		21
+		22
+		23
+		24
+		25
+		26
+		27
+		28
+		29
+		30
+	id: `name="challenge-rating"`
+	
+Name: Special Traits Discription
+	Nullable: True
+	Type: HTML
+	id: `id="field-special-traits-description-wysiwyg_ifr"`
+	
+Name: Actions Discription
+	Nullable: True
+	Type: HTML
+	id: `id="field-actions-description-wysiwyg_ifr"`
+	
+Name: Reactions Discriptions
+	Nullable: True
+	Type: HTML
+	id: `id="field-reactions-description-wysiwyg_ifr"`
+	
+Name: Monster Characteristics Description
+	Nullable: True
+	Type: HTML
+	id: `id="field-monster-characteristics-description-wysiwyg_ifr"`
+	
+Name:Bonus Actions Description
+	Nullable: True 
+	Type: HTML
+	id: `id="field-bonus-actions-description-wysiwyg_ifr"`
+	
+Name: Is Legendary?
+	Nullable: False
+	Type: Boolian
+	id: `data-fc-real-item-id="field-is-legendary"`
+	
+Name: Is Mythic?
+	Nullable: False
+	Type: Boolian
+	id: `data-fc-real-item-id="field-is-mythic"`
+	
+Name:Legendary Actions Description
+	Nullable: True
+	Type: HTML
+	id: `id="field-legendary-actions-description-wysiwyg_ifr"`
+	
+	
+Name: Mythic Actions Description
+	Nullable: True
+	Type: HTML
+	id: `id="field-mythic-actions-description-wysiwyg_ifr"`
+	
+Name: Has Lair?
+	Nullable: False
+	Type: Boolian
+	id: `data-fc-real-item-id="field-has-lair"`
+	
+Name: Lair and Lair Actions Description
+	Nullable: True
+	Type: HTML
+	id: `id="field-lair-description-wysiwyg_ifr"`
+	
+	
+Name: Armor Class
+	Nullable: False
+	Type: Int
+	id: `name="armor-class"`
+	
+Name: Armor Class Type
+	Nullable: False
+	Type: String
+	id: `name="armor-class-type"`
+	
+Name: Hit Point Die Count
+	Nullable: False
+	Type: Int
+	id: `name="hit-points-die-count"`
+	
+	
+Name: Hit Points Die Value
+	Nullable: False
+	Type: Options 
+		d4
+		d6
+		d8
+		d10
+		d12
+		d20
+	id: `name="hit-points-die-value"`
+	
+Name: Hit Points Modifier
+	Nullable: True
+	Type: int
+	id: `name="hit-points-modifier"`
+	
+Name: Average Hit Points
+	Nullable: False 
+	Type: int
+	id: `name="average-hit-points"`
+	
+	
+Name: Str Score
+	Nullable: False
+	Type: int
+	id: `name="f1cb35ef8bb4ebfeed40a9160cee810c2"`
+
+Name: Dex Score
+	Nullable: False
+	Type: int
+	id: `name="f00babdcdfa357a87e3723b8e6b4855ec"`
+	
+Name: Con Score
+	Nullable: False
+	Type: int 
+	id: `name="f8c3dd1f00603558d11bb7c6a443cfc48"`
+	
+Name: Int Score
+	Nullable: False
+	Type: int
+	id: `name="f73b6b0fa1f84c05f37686cc9436f565d"`
+	
+Name: Wis Score
+	Nullable: False
+	Type: int
+	id: `name="f6b4f6a14342a559b914a210e54ffd972"`
+	
+Name: Cha Score
+	Nullable: False
+	Type: int
+	id: `name="f64df41b63c83134e36c6dc0f1c2b3474"`
+	
+Name: Saving Throw Proficiencies
+	Nullable: True 
+	Type: Multiple Options
+		STR
+		DEX
+		CON
+		INT
+		WIS
+		CHA
+	id: `id="s2id_field-monster-saving-throw"`
+	
+	
+Name:Damage Adjustments
+	Nullable: 
+	Type: Multiple Options
+		unable to easily scrape options.
+	id: `id="s2id_field-damage-adjustment"`
+	
+Name: Condition Immunities
+	Nullable: True
+	Type: Multiple Options
+		Blinded
+		Charmed
+		Deafened
+		Exhaustion
+		Frightened
+		Grappled
+		Incapacitated
+		Invisible
+		Paralyzed
+		Petrified
+		Poisoned
+		Prone
+		Restrained
+		Stunned
+		Unconscious
+	id: `id="s2id_field-condition-immunity"`
+	
+Name: Monster Environments
+	Nullable: True
+	Type: Multiple Options
+		Arctic
+		Coastal
+		Desert
+		Forest
+		Hill
+		Urban
+		Grassland
+		Mountan
+		Swamp
+		Underdark
+		Underwater
+	id: `id="s2id_field-monster-environments"`
+	
+Name:Language Note Override
+	Nullable: True
+	Type: String 
+	id: `name="languages-note"`
+	
+	
+Name: Monster Tags
+	Nullable: True
+	Type: Multiple Options
+		unable to easily scrape options.
+	id: `id="s2id_field-monster-tags-public"`
+	
+Name: Small Avatar
+	Nullable: True
+	Type: jpg image
+	id: `name="fe84305e047f9ad2ff974d46826117a21"`
+	
+Name: Large Avatar
+	Nullable: True
+	Type: jpg image
+	id: `name="fb44ce6d10d9ba8f2cdf5ba5efd6dd40f"`
+	
+3 pages: languages, senses, and skills
