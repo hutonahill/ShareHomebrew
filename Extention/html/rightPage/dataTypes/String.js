@@ -7,5 +7,7 @@ import Element from "Element.js";
  * @extends Element
  */
 class String extends Element {
-
+    readValue(){
+        
+    }
 }

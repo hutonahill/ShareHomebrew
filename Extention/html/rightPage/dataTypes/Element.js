@@ -1,3 +1,4 @@
+
 /**
  * Represents an HTML element with associated value and identifiers.
  *
@@ -12,7 +13,7 @@
  *                           and the values are the corresponding identifier values.
  */
 class Element {
-    constructor(valueInput, idInput) {
+    constructor(valueInput, idInput, nameInput) {
       /**
        * The value associated with the HTML element.
        * @type {string}
@@ -26,6 +27,12 @@ class Element {
        * @property {string} value - The value of the identifier.
        */
       this.id = idInput;
+        
+      /**
+       * The name of the element.
+       * @type {string}
+       */
+      this.name = nameInput
     }
   
     /**
