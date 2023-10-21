@@ -18,7 +18,7 @@
         "Monster SUb-Type(s):": {
             "nullable": true,
             "type": "Multiple Options",
-            "id": "s2id_autogen1"
+            "id": "s2id_field-monster-sub-type"
         },
         "Size": {
             "nullable": false,
@@ -88,107 +88,105 @@
         "Name: Has Lair?": {
             "nullable": false,
             "type": "Boolian",
-            "id": "field-has-lair`"
+            "id": "field-has-lair"
         },
         "Name: Lair and Lair Actions Description": {
             "nullable": true,
             "type": "HTML",
-            "id": "field-lair-description-wysiwyg_ifr`"
+            "id": "field-lair-description-wysiwyg_ifr"
         },
         "Name: Armor Class": {
             "nullable": false,
             "type": "Int",
-            "id": "field-armor-class`"
+            "id": "field-armor-class"
         },
         "Name: Armor Class Type": {
             "nullable": false,
             "type": "String",
-            "id": "field-armor-class-type`"
+            "id": "field-armor-class-type"
         },
         "Name: Passive Perception": {
-            "id": "field-passive-perception`"
+            "id": "field-passive-perception"
         },
         "Name: Hit Point Die Count": {
             "nullable": false,
             "type": "Int",
-            "id": "field-hit-points-die-count`"
+            "id": "field-hit-points-die-count"
         },
         "Name: Hit Points Die Value": {
             "nullable": false,
             "type": "Options",
-            "id": "field-hit-points-die-value`"
+            "id": "field-hit-points-die-value"
         },
         "Name: Hit Points Modifier": {
             "nullable": true,
             "type": "Int",
-            "id": "field-hit-points-modifier`"
+            "id": "field-hit-points-modifier"
         },
         "Name: Average Hit Points": {
             "nullable": false,
             "type": "Int",
-            "id": "field-average-hit-points`"
+            "id": "field-average-hit-points"
         },
         "Name: Str Score": {
             "nullable": false,
             "type": "Int",
-            "id": "field-strength`"
+            "id": "field-strength"
         },
         "Name: Dex Score": {
             "nullable": false,
             "type": "Int",
-            "id": "field-dexterity`"
+            "id": "field-dexterity"
         },
         "Name: Con Score": {
             "nullable": false,
             "type": "Int",
-            "id": "field-constitution`"
+            "id": "field-constitution"
         },
         "Name: Int Score": {
             "nullable": false,
             "type": "Int",
-            "id": "field-intelligence`"
+            "id": "field-intelligence"
         },
         "Name: Wis Score": {
             "nullable": false,
             "type": "Int",
-            "id": "field-wisdom`"
+            "id": "field-wisdom"
         },
         "Name: Cha Score": {
             "nullable": false,
             "type": "Int",
-            "id": "field-charisma`"
+            "id": "field-charisma"
         },
         "Name: Saving Throw Proficiencies": {
             "nullable": true,
             "type": "Multiple Options",
-            "id": "s2id_autogen2`"
+            "id": "s2id_field-monster-saving-throw"
         },
         "Name:Damage Adjustments": {
             "nullable": false,
             "type": "Multiple Options",
-            "id": "s2id_autogen3`"
+            "id": "s2id_field-damage-adjustment"
         },
         "Name: Condition Immunities": {
             "nullable": true,
             "type": "Multiple Options",
-            "id": "s2id_autogen4`"
+            "id": "s2id_field-condition-immunity"
         },
         "Name: Monster Environments": {
             "nullable": true,
             "type": "Multiple Options",
-            "id": "s2id_autogen5`"
+            "id": "s2id_field-monster-environments"
         },
         "Name:Language Note Override": {
             "nullable": true,
             "type": "String",
-            "id": "field-languages-note`"
+            "id": "field-languages-note"
         },
         "Name: Monster Tags": {
             "nullable": true,
             "type": "Multiple Options",
-            "id": "s2id_autogen6`"
-        },
-        
-        "3 pages: languages, senses, and skills": {}
+            "id": "s2id_field-monster-tags-public"
+        }
     }
 }
