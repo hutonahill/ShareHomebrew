@@ -1,12 +1,12 @@
 Monster Name
 	Nullable: False
 	Type: string
-	id: `name="Name"`
+	id: `id = "field-Name"`
 
 Version:
 	Nullable: True
 	Type: stirng
-	id: `name="version"`
+	id: `id = "field-version"`
 	
 Monster Type:
 	Nullable: False
@@ -26,13 +26,13 @@ Monster Type:
 		Plant
 		Undead
 		unknown
-	id: `name="monster-type"`
+	id: `id = "field-monster-type"`
 	
 Monster SUb-Type(s):
 	Nullable: True
 	Type: Multiple Options
 		unable to easily scrape options.
-	id: `id="s2id_field-monster-sub-type"`
+	id: `id="s2id_autogen1"`
 	
 Size
 	Nullable: False
@@ -44,19 +44,19 @@ Size
 		Medium or Small
 		Small
 		Tiny
-	id: `name="size"`
+	id: `id ="field-size"`
 	
 Swarm Monster Type:
 	Nullable: True
 	Type: Options
 		see Swarm Monster Type Options.txt. File needs to be parced.
-	id: `name="swarm-monster"`
+	id: `id ="field-swarm-monster"`
 	
 Alignment:
 	Nullable: True
 	Type: Options
 		see Alignment Options.txt. file needs to be parced.
-	id: `name="alignment"`
+	id: `id = "field-alignment"`
 	
 Chalange Rating:
 	Nullable: False
@@ -95,7 +95,7 @@ Chalange Rating:
 		28
 		29
 		30
-	id: `name="challenge-rating"`
+	id: `id= "field-challenge-rating"`
 	
 Name: Special Traits Discription
 	Nullable: True
@@ -157,17 +157,22 @@ Name: Lair and Lair Actions Description
 Name: Armor Class
 	Nullable: False
 	Type: Int
-	id: `name="armor-class"`
+	id: `id = "field-armor-class"`
 	
 Name: Armor Class Type
 	Nullable: False
 	Type: String
-	id: `name="armor-class-type"`
-	
+	id: `id = "field-armor-class-type"`
+
+Name: Passive Perception
+	Nullable = False
+	Type = String
+	id: `id = "field-passive-perception"`
+
 Name: Hit Point Die Count
 	Nullable: False
 	Type: Int
-	id: `name="hit-points-die-count"`
+	id: `id = "field-hit-points-die-count"`
 	
 	
 Name: Hit Points Die Value
@@ -179,48 +184,48 @@ Name: Hit Points Die Value
 		d10
 		d12
 		d20
-	id: `name="hit-points-die-value"`
+	id: `id="field-hit-points-die-value"`
 	
 Name: Hit Points Modifier
 	Nullable: True
 	Type: int
-	id: `name="hit-points-modifier"`
+	id: `id="field-hit-points-modifier"`
 	
 Name: Average Hit Points
 	Nullable: False 
 	Type: int
-	id: `name="average-hit-points"`
+	id: `id="field-average-hit-points"`
 	
 	
 Name: Str Score
 	Nullable: False
 	Type: int
-	id: `name="f1cb35ef8bb4ebfeed40a9160cee810c2"`
+	id: `id="field-strength"`
 
 Name: Dex Score
 	Nullable: False
 	Type: int
-	id: `name="f00babdcdfa357a87e3723b8e6b4855ec"`
+	id: `id="field-dexterity"`
 	
 Name: Con Score
 	Nullable: False
 	Type: int 
-	id: `name="f8c3dd1f00603558d11bb7c6a443cfc48"`
+	id: `id="field-constitution"`
 	
 Name: Int Score
 	Nullable: False
 	Type: int
-	id: `name="f73b6b0fa1f84c05f37686cc9436f565d"`
+	id: `id="field-intelligence"`
 	
 Name: Wis Score
 	Nullable: False
 	Type: int
-	id: `name="f6b4f6a14342a559b914a210e54ffd972"`
+	id: `id="field-wisdom"`
 	
 Name: Cha Score
 	Nullable: False
 	Type: int
-	id: `name="f64df41b63c83134e36c6dc0f1c2b3474"`
+	id: `id="field-charisma"`
 	
 Name: Saving Throw Proficiencies
 	Nullable: True 
@@ -231,14 +236,14 @@ Name: Saving Throw Proficiencies
 		INT
 		WIS
 		CHA
-	id: `id="s2id_field-monster-saving-throw"`
+	id: `id="s2id_autogen2"`
 	
 	
 Name:Damage Adjustments
 	Nullable: 
 	Type: Multiple Options
 		unable to easily scrape options.
-	id: `id="s2id_field-damage-adjustment"`
+	id: `id="s2id_autogen3"`
 	
 Name: Condition Immunities
 	Nullable: True
@@ -258,7 +263,7 @@ Name: Condition Immunities
 		Restrained
 		Stunned
 		Unconscious
-	id: `id="s2id_field-condition-immunity"`
+	id: `id="s2id_autogen4"`
 	
 Name: Monster Environments
 	Nullable: True
@@ -274,19 +279,19 @@ Name: Monster Environments
 		Swamp
 		Underdark
 		Underwater
-	id: `id="s2id_field-monster-environments"`
+	id: `id="s2id_autogen5"`
 	
 Name:Language Note Override
 	Nullable: True
 	Type: String 
-	id: `name="languages-note"`
+	id: `id="field-languages-note"`
 	
 	
 Name: Monster Tags
 	Nullable: True
 	Type: Multiple Options
 		unable to easily scrape options.
-	id: `id="s2id_field-monster-tags-public"`
+	id: `id="s2id_autogen6"`
 	
 Name: Small Avatar
 	Nullable: True
