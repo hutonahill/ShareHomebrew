@@ -1,4 +1,4 @@
-import Element from "Element.js";
+
 
 /**
  * Represents a specialized Element for handling string values.
@@ -6,7 +6,14 @@ import Element from "Element.js";
  * @class
  * @extends Element
  */
-class String extends Element {
+class StringElement extends Element {
+
+    /**
+     * Retrieves the value from the current HTML page.
+     *
+     * @method
+     * @returns {void}
+     */
     readValue(htmlPage) {
         const parser = new DOMParser();
         const doc = parser.parseFromString(htmlPage, 'text/html');
@@ -21,3 +28,6 @@ class String extends Element {
         }
     }
 }
+
+
+module.exports.StringElement = StringElement;
