@@ -1,0 +1,9 @@
+['String', 
+'Boolian', 
+'HTML', 
+'string', 
+'Multiple Options', 
+'int', 'stirng', 
+'Int', 
+'jpg image', 
+'Options']
