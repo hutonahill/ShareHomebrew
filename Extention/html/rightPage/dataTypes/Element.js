@@ -13,18 +13,21 @@
  *                           and the values are the corresponding identifier values.
  */
 class Element {
-    constructor(valueInput, idInput, nameInput) {
+    value
+    name
+    id
+    
+    
+    constructor(idInput, nameInput) {
       /**
        * The value associated with the HTML element.
        * @type {string}
        */
-      this.value = valueInput;
+      this.value = "";
   
       /**
-       * Identifiers for the HTML element.
-       * @type {Object}
-       * @property {string} key - The identifier name (e.g., CSS tag name).
-       * @property {string} value - The value of the identifier.
+       * The Id the HTML element.
+       * @property {string} value
        */
       this.id = idInput;
         

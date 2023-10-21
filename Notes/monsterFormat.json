@@ -3,67 +3,67 @@
         "Monster Name": {
             "nullable": false,
             "type": "String",
-            "id": "field-Name`"
+            "id": "field-Name"
         },
         "Version:": {
             "nullable": true,
             "type":"String",
-            "id": "field-version`"
+            "id": "field-version"
         },
         "Monster Type:": {
             "nullable": false,
             "type": "Options",
-            "id": "field-monster-type`"
+            "id": "field-monster-type"
         },
         "Monster SUb-Type(s):": {
             "nullable": true,
             "type": "Multiple Options",
-            "id": "s2id_autogen1`"
+            "id": "s2id_autogen1"
         },
         "Size": {
             "nullable": false,
             "type": "Options",
-            "id": "field-size`"
+            "id": "field-size"
         },
         "Swarm Monster Type:": {
             "nullable": true,
             "type": "Options",
-            "id": "field-swarm-monster`"
+            "id": "field-swarm-monster"
         },
         "Alignment:": {
             "nullable": true,
             "type": "Options",
-            "id": "field-alignment`"
+            "id": "field-alignment"
         },
         "Chalange Rating:": {
             "nullable": false,
             "type": "Options",
-            "id": "field-challenge-rating`"
+            "id": "field-challenge-rating"
         },
         "Name: Special Traits Discription": {
             "nullable": true,
             "type": "HTML",
-            "id": "field-special-traits-description-wysiwyg_ifr`"
+            "id": "field-special-traits-description-wysiwyg_ifr"
         },
         "Name: Actions Discription": {
             "nullable": true,
             "type": "HTML",
-            "id": "field-actions-description-wysiwyg_ifr`"
+            "id": "field-actions-description-wysiwyg_ifr"
         },
         "Name: Reactions Discriptions": {
             "nullable": true,
             "type": "HTML",
-            "id": "field-reactions-description-wysiwyg_ifr`"
+            "id": "field-reactions-description-wysiwyg_ifr"
         },
         "Name: Monster Characteristics Description": {
             "nullable": true,
             "type": "HTML",
-            "id": "field-monster-characteristics-description-wysiwyg_ifr`"
+            "id": "field-monster-characteristics-description-wysiwyg_ifr"
         },
         "Name:Bonus Actions Description": {
             "nullable": true,
             "type": "HTML",
-            "id": "field-bonus-actions-description-wysiwyg_ifr`"
+            "id": "field-bonus-actions-description-wysiwyg_ifr"
         },
         "Name: Is Legendary?": {
             "nullable": false,
