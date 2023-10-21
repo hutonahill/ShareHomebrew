@@ -1,9 +1,6 @@
-['String', 
-'Boolian', 
-'HTML', 
-'string', 
-'Multiple Options', 
-'int', 'stirng', 
-'Int', 
-'jpg image', 
-'Options']
+Multiple Options
+HTML
+Int
+Boolian
+String
+Options

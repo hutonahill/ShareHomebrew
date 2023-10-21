@@ -2,12 +2,12 @@
     "Page":{
         "Monster Name": {
             "nullable": false,
-            "type": "string",
+            "type": "String",
             "id": "field-Name`"
         },
         "Version:": {
             "nullable": true,
-            "type": "stirng",
+            "type":"String",
             "id": "field-version`"
         },
         "Monster Type:": {
@@ -120,42 +120,42 @@
         },
         "Name: Hit Points Modifier": {
             "nullable": true,
-            "type": "int",
+            "type": "Int",
             "id": "field-hit-points-modifier`"
         },
         "Name: Average Hit Points": {
             "nullable": false,
-            "type": "int",
+            "type": "Int",
             "id": "field-average-hit-points`"
         },
         "Name: Str Score": {
             "nullable": false,
-            "type": "int",
+            "type": "Int",
             "id": "field-strength`"
         },
         "Name: Dex Score": {
             "nullable": false,
-            "type": "int",
+            "type": "Int",
             "id": "field-dexterity`"
         },
         "Name: Con Score": {
             "nullable": false,
-            "type": "int",
+            "type": "Int",
             "id": "field-constitution`"
         },
         "Name: Int Score": {
             "nullable": false,
-            "type": "int",
+            "type": "Int",
             "id": "field-intelligence`"
         },
         "Name: Wis Score": {
             "nullable": false,
-            "type": "int",
+            "type": "Int",
             "id": "field-wisdom`"
         },
         "Name: Cha Score": {
             "nullable": false,
-            "type": "int",
+            "type": "Int",
             "id": "field-charisma`"
         },
         "Name: Saving Throw Proficiencies": {
@@ -188,16 +188,7 @@
             "type": "Multiple Options",
             "id": "s2id_autogen6`"
         },
-        "Name: Small Avatar": {
-            "nullable": true,
-            "type": "jpg image",
-            "id": "fe84305e047f9ad2ff974d46826117a21`"
-        },
-        "Name: Large Avatar": {
-            "nullable": true,
-            "type": "jpg image",
-            "id": "fb44ce6d10d9ba8f2cdf5ba5efd6dd40f`"
-        },
+        
         "3 pages: languages, senses, and skills": {}
     }
 }

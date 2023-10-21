@@ -52,7 +52,10 @@ def main():
         output_dict = json.load(file)
 
     types_list = extract_types(output_dict)
-    print("List of Types:", types_list)
+    print("List of Types:")
+    for items in types_list:
+        print(items)
+        
 
 if __name__ == "__main__":
     main()
