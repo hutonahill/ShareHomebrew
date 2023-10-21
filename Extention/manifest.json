@@ -10,15 +10,22 @@
     "default_icon": "html/logo.png"
   },
   "permissions": [
-    "activeTab", "scripting"
+    "tabs", "activeTab", "scripting"
   ],
   "background": {
     "service_worker": "background.js",
     "type":"module"
-  }
+  },
+  "content_scripts":[
+    {
+      "matches":["https://www.dndbeyond.com/homebrew"],
+      "js":["./html/rightPage/rightScripts.js"]
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["readScript.js"],
+      "matches": ["<all_urls>"]
+    }
+  ]
 }
-
-
-  
-  
-  

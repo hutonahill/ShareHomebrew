@@ -10,3 +10,7 @@ button {
     border-radius: 4px;
     cursor: pointer;
 }
+
+#tabLabel{
+    color:transparent
+}

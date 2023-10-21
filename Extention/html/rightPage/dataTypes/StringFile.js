@@ -1,5 +1,3 @@
-
-
 /**
  * Represents a specialized Element for handling string values.
  *
@@ -30,4 +28,4 @@ class StringElement extends Element {
 }
 
 
-module.exports.StringElement = StringElement;
+export default StringElement

@@ -1,35 +1,55 @@
+import String from "./readScripts"
 
-import {StringElement} from "./dataTypes/StringFile";
 
-// Define the closePopup function
+
+//Define the closePopup function
 function closePopup() {
+  console.log("Closing Pop Up.")
   // Close the popup when the "Close" button is clicked
   window.close();
 }
 
-function readTest() {
+// Function to execute the readScript.js in the specified tab
+function readTest(activeTabId) {
 
-  console.log("Running Read Test")
-  testString = new StringElement("MonsterName", "field-Name")
+  let readScriptsLocation = ""
 
-  testString.readValue()
-
-  console.log(testString.name, ": ", testString.value)
+  chrome.scripting.executeScript({
+    target:{tabId:parseInt(activeTabId)},
+    files: ['./readScripts']
+  }, function () {
+    console.log('readScript.js executed in tab:', activeTabId);
+  });
 }
 
-
-
-
-  
 // Add an event listener to the button
 document.addEventListener('DOMContentLoaded', function () {
   var closeButton = document.getElementById('closeButton');
   var readTestButton = document.getElementById("readButton");
 
+  // Get the tabId from the URL query parameters
+  const urlParams = new URLSearchParams(window.location.search);
+  const tabId = urlParams.get('tabId');
+
+  // Use tabId as needed
+  console.log('Tab ID:', tabId);
+
+  // Display tabId in the output div
+  var tabIdOutput = document.getElementById('tabIdOutput');
+  if (tabIdOutput) {
+    tabIdOutput.textContent = tabId;
+  }
+
   if (closeButton) {
     closeButton.addEventListener('click', closePopup);
   }
-  if(readTestButton){
-    readTestButton.addEventListener('click', readTest)
+  if (readTestButton) {
+    readTestButton.addEventListener('click', function () {
+      readTest(tabId);
+    });
   }
 });
+
+
+
+
