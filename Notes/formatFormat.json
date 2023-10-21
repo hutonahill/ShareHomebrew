@@ -1,0 +1,44 @@
+{
+	"Page": {
+	  "monster_name": ["string", "field-Name"],
+	  "version": ["string", "field-version"],
+	  "monster_type": ["options", "field-monster-type"],
+	  "monster_sub_type": ["multiple_options", "s2id_autogen1"],
+	  "size": ["options", "field-size"],
+	  "swarm_monster_type": ["options", "field-swarm-monster"],
+	  "alignment": ["options", "field-alignment"],
+	  "challenge_rating": ["options", "field-challenge-rating"],
+	  "special_traits_description": ["html", "field-special-traits-description-wysiwyg_ifr"],
+	  "actions_description": ["html", "field-actions-description-wysiwyg_ifr"],
+	  "reactions_descriptions": ["html", "field-actions-description-wysiwyg_ifr"],
+	  "reactions_discriptions": ["html", "field-reactions-description-wysiwyg_ifr"],
+	  "monster_characteristics_description": ["html", "field-monster-characteristics-description-wysiwyg_ifr"],
+	  "bonus_actions_description": ["html", "field-bonus-actions-description-wysiwyg_ifr"],
+	  "is_legendary?": ["boolian", "field-is-legendary"],
+	  "is_mythic?": ["boolian", "field-is-mythic"],
+	  "legendary_actions_description": ["html", "field-legendary-actions-description-wysiwyg_ifr"],
+	  "mythic_actions_description": ["html", "field-mythic-actions-description-wysiwyg_ifr"],
+	  "has_lair?": ["boolian", "field-has-lair"],
+	  "lair_and_lair_actions_description": ["html", "field-lair-description-wysiwyg_ifr"],
+	  "armor_class": ["int", "field-armor-class"],
+	  "armor_class_type": ["string", "field-armor-class-type"],
+	  "passive_perception": ["string", "field-passive-perception"],
+	  "hit_point_die_count": ["int", "field-hit-points-die-count"],
+	  "hit_point_die_value": ["", ""],
+	  "": ["", ""],
+	  "": ["", ""],
+	  "": ["", ""],
+	  "": ["", ""],
+	  "": ["", ""],
+
+	  
+	  "Page2": {
+		"box3": ["type", "box-id"]
+	  },
+	  "button-ids": {
+		"read-id": "id for read",
+		"write-id": "id for write",
+		"save-id": "id for save"
+	  }
+	}
+  }
