@@ -12,32 +12,32 @@
         },
         "Monster Type:": {
             "nullable": false,
-            "type": "Options",
+            "type": "Option",
             "id": "field-monster-type"
         },
         "Monster SUb-Type(s):": {
             "nullable": true,
             "type": "Multiple Options",
-            "id": "s2id_field-monster-sub-type"
+            "id": "field-monster-sub-type"
         },
         "Size": {
             "nullable": false,
-            "type": "Options",
+            "type": "Option",
             "id": "field-size"
         },
         "Swarm Monster Type:": {
             "nullable": true,
-            "type": "Options",
+            "type": "Option",
             "id": "field-swarm-monster"
         },
         "Alignment:": {
             "nullable": true,
-            "type": "Options",
+            "type": "Option",
             "id": "field-alignment"
         },
         "Chalange Rating:": {
             "nullable": false,
-            "type": "Options",
+            "type": "Option",
             "id": "field-challenge-rating"
         },
         "Name: Special Traits Discription": {
@@ -68,22 +68,22 @@
         "Name: Is Legendary?": {
             "nullable": false,
             "type": "Boolian",
-            "id": "field-is-legendary`"
+            "id": "field-is-legendary"
         },
         "Name: Is Mythic?": {
             "nullable": false,
             "type": "Boolian",
-            "id": "field-is-mythic`"
+            "id": "field-is-mythic"
         },
         "Name:Legendary Actions Description": {
             "nullable": true,
             "type": "HTML",
-            "id": "field-legendary-actions-description-wysiwyg_ifr`"
+            "id": "field-legendary-actions-description-wysiwyg_ifr"
         },
         "Name: Mythic Actions Description": {
             "nullable": true,
             "type": "HTML",
-            "id": "field-mythic-actions-description-wysiwyg_ifr`"
+            "id": "field-mythic-actions-description-wysiwyg_ifr"
         },
         "Name: Has Lair?": {
             "nullable": false,
@@ -117,7 +117,7 @@
         },
         "Name: Hit Points Die Value": {
             "nullable": false,
-            "type": "Options",
+            "type": "Option",
             "id": "field-hit-points-die-value"
         },
         "Name: Hit Points Modifier": {
@@ -163,22 +163,22 @@
         "Name: Saving Throw Proficiencies": {
             "nullable": true,
             "type": "Multiple Options",
-            "id": "s2id_field-monster-saving-throw"
+            "id": "field-monster-saving-throw"
         },
         "Name:Damage Adjustments": {
             "nullable": false,
             "type": "Multiple Options",
-            "id": "s2id_field-damage-adjustment"
+            "id": "field-damage-adjustment"
         },
         "Name: Condition Immunities": {
             "nullable": true,
             "type": "Multiple Options",
-            "id": "s2id_field-condition-immunity"
+            "id": "field-condition-immunity"
         },
         "Name: Monster Environments": {
             "nullable": true,
             "type": "Multiple Options",
-            "id": "s2id_field-monster-environments"
+            "id": "field-monster-environments"
         },
         "Name:Language Note Override": {
             "nullable": true,
@@ -188,7 +188,8 @@
         "Name: Monster Tags": {
             "nullable": true,
             "type": "Multiple Options",
-            "id": "s2id_field-monster-tags-public"
+            "id": "field-monster-tags-public"
         }
-    }
+    },
+    "FormatName":"Monster"
 }

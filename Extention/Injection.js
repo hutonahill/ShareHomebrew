@@ -176,7 +176,7 @@ class BooleanElement{
   readValue() {
       console.log("Starting Read ", this.type)
       console.log("\tid: ", this.id)
-      let element = document.getElementById(this.id);
+      let element = document.querySelector(`[data-fc-real-item-id="${this.id}"]`);
 
 
       if (element) {
@@ -184,7 +184,7 @@ class BooleanElement{
         console.log("\telement: ", element)
 
         console.log("\tValue: ")
-          this.value = this.Translation
+          this.value = this.Translation[element.className]
 
       } else {
           console.error(`\tElement with id '${this.id}' not found.`);
@@ -198,7 +198,7 @@ class BooleanElement{
     console.log("\tid: ", this.id);
 
     // get the target element
-    let element = document.getElementById(this.id);
+    let element = document.querySelector(`[data-fc-real-item-id="${this.id}"]`);
 
     // if the element exist, continue.
     if(element){
@@ -345,58 +345,53 @@ class HTMLElement {
    * @returns {void}
    */
   readValue() {
-    console.log(`Starting Read ${this.type}`);
-    console.log(`\tid: ${this.id}`);
-    let element = document.getElementById(this.id);
+    console.log("Starting Read ", this.type);
+    console.log("\tid: ", this.id);
 
-    if (element) {
-      console.log(`\telement.innerHTML: ${element.innerHTML}`);
-      console.log(`\telement:`, element);
+    // Get the target iframe element
+    let iframe = document.getElementById(this.id);
 
-      this.value = element.innerHTML;
+    if (iframe) {
+      // Access the contentDocument of the iframe
+      let contentDoc = iframe.contentDocument || iframe.contentWindow.document;
+
+      // Read the content from the iframe
+      this.value = contentDoc.body.innerHTML;
     } else {
-      console.error(`\tElement with id '${this.id}' not found.`);
+      console.error(`\tIframe with id '${this.id}' not found.`);
     }
 
-    console.log(`Ending Read ${this.type}`);
+    console.log("Ending Read ", this.type);
   }
 
-  /**
-   * Writes the value to the HTML element.
-   *
-   * @method
-   * @returns {void}
-   */
   writeValue() {
-    console.log(`Starting Write ${this.type}`);
-    console.log(`\tid: ${this.id}`);
+    console.log("Starting Write ", this.type);
+    console.log("\tid: ", this.id);
 
-    // get the target element
-    let element = document.getElementById(this.id);
+    // Get the target iframe element
+    let iframe = document.getElementById(this.id);
 
-    // if the element exists, continue.
-    if (element) {
-      console.log(`\telement.innerHTML: ${element.innerHTML}`);
-      console.log(`\telement:`, element);
+    if (iframe) {
+      // Access the contentDocument of the iframe
+      let contentDoc = iframe.contentDocument || iframe.contentWindow.document;
 
-      element.innerHTML = this.value;
-
-      console.log(`\telement.innerHTML: ${element.innerHTML}`);
+      // Write the content to the iframe
+      contentDoc.body.innerHTML = this.value;
     } else {
-      console.error(`\tElement with id '${this.id}' not found.`);
+      console.error(`\tIframe with id '${this.id}' not found.`);
     }
 
-    console.log(`Ending Write ${this.type}`);
+    console.log("Ending Write ", this.type);
   }
 }
 
 class MultipleOptionsElement {
   constructor(idInput, nameInput) {
     /**
-     * The innerHTML of the Multiple Options element.
-     * @type {string}
+     * The array of selected values for the Multiple Options element.
+     * @type {Array<string>}
      */
-    this.value = "";
+    this.value = [];
 
     /**
      * The type of the Multiple Options element.
@@ -418,58 +413,82 @@ class MultipleOptionsElement {
   }
 
   /**
-   * Retrieves the value from the current HTML page.
+   * Retrieves the values from the current HTML page.
    *
    * @method
    * @returns {void}
    */
   readValue() {
-    console.log(`Starting Read ${this.type}`);
-    console.log(`\tid: ${this.id}`);
+    console.log("Starting Read ", this.type);
+    console.log("\tid: ", this.id);
     let element = document.getElementById(this.id);
 
     if (element) {
-      console.log(`\telement.innerHTML: ${element.innerHTML}`);
-      console.log(`\telement:`, element);
+      console.log("\telement.className: ", element.className);
+      console.log("\telement: ", element);
 
-      this.value = element.innerHTML;
+      // Iterate through selected options and store their IDs in the values array
+      for (let i = 0; i < element.options.length; i++) {
+        const option = element.options[i];
+        if (option.selected) {
+          this.value.push(option.id);
+        }
+      }
     } else {
       console.error(`\tElement with id '${this.id}' not found.`);
     }
 
-    console.log(`Ending Read ${this.type}`);
+    console.log("Ending Read ", this.type);
   }
 
-  /**
-   * Writes the value to the HTML element.
-   *
-   * @method
-   * @returns {void}
-   */
   writeValue() {
-    console.log(`Starting Write ${this.type}`);
-    console.log(`\tid: ${this.id}`);
+    console.log("Starting Write ", this.type);
+    console.log("\tid: ", this.id);
 
     // get the target element
     let element = document.getElementById(this.id);
 
     // if the element exists, continue.
     if (element) {
-      console.log(`\telement.innerHTML: ${element.innerHTML}`);
-      console.log(`\telement:`, element);
+      console.log("\telement.className: ", element.className);
+      console.log("\telement: ", element);
 
-      element.innerHTML = this.value;
+      // Iterate through values and select corresponding options
+      for (let i = 0; i < element.options.length; i++) {
+        const option = element.options[i]
 
-      console.log(`\telement.innerHTML: ${element.innerHTML}`);
+        let found = false;
+        //determin if value contanes a key that matches option.
+        for(item of this.value){
+          if (option.id === item){
+            found = true;
+          }
+          
+        }
+        
+        // if value had a matching id,
+        // make the option as selected
+        if(found == true){
+          option.selected = true;
+        }
+        // if there is no matching value, mark as not selected.
+        else{
+          option.selected = false;
+        }
+
+        const event = new Event('change');
+        element.dispatchEvent(event);
+        
+      }
+
+      console.log("\telement.className: ", element.className);
     } else {
       console.error(`\tElement with id '${this.id}' not found.`);
     }
 
-    console.log(`Ending Write ${this.type}`);
+    console.log("Ending Write ", this.type);
   }
 }
-
-
 
 
 
@@ -479,17 +498,17 @@ let AssignmentDict = {
   "Int":IntElement,
   "Boolian":BooleanElement,
   "String":StringElement,
-  "Options":MultipleOptionsElement
+  "Option":OptionElement
 }
 
 
-function promptForJsonFileContent(callback) {
+function promptForJsonFileContent(fileSuffix, callback) {
   // Create an input element of type file
   const inputElement = document.createElement('input');
   inputElement.type = 'file';
 
-  // Set the accept attribute to allow only JSON files
-  inputElement.accept = '.json';
+  // Set the accept attribute to allow only files with the specified suffix
+  inputElement.accept = `.${fileSuffix}`;
 
   // Add an event listener for when a file is selected
   inputElement.addEventListener('change', function () {
@@ -543,7 +562,7 @@ function downloadJson(data, fileName) {
 // Function to handle the "Read" button click
 function handleReadButtonClick() {
   
-  promptForJsonFileContent(function (jsonObject) {
+  promptForJsonFileContent('format.json', function (jsonObject) {
     console.log('JSON object:', jsonObject);
 
       let page1 = jsonObject["Page"]
@@ -582,16 +601,22 @@ function handleReadButtonClick() {
       }
 
       let output = {}
-      for (item in elementList){
+      for (item of elementList){
+
+    
         let name = item.name;
+        console.log("name: ", name);
         let id = item.id;
+        console.log("id: ", id);
         let type = item.type;
-        let value = item.value;
+        console.log("type: ", type);
+        let value2 = item.value;
+        console.log("value: ",value2)
 
         output[name] = {
           "id":id,
           "type":type,
-          "value":value
+          "value":value2
         };
 
         console.log("name: ", name);
@@ -606,9 +631,13 @@ function handleReadButtonClick() {
 
       console.log("justTheName: ", justTheName);
 
-      fileName = justTheName.trim() + ".json";
+      let FormatName = "." + jsonObject["FormatName"]
+
+      fileName = justTheName.trim() +FormatName + ".json";
 
       console.log("fileName: ",fileName);
+
+      console.log("Output: ", output)
 
       downloadJson(output, fileName)
   });
@@ -617,7 +646,44 @@ function handleReadButtonClick() {
 
 // Function to handle the "Write" button click
 function handleWriteButtonClick() {
-  
+  let MonsterFileSufix = "Monster.json"
+  promptForJsonFileContent(MonsterFileSufix, function (jsonObject) {
+    console.log('JSON object:', jsonObject);
+    
+    let elementList = []
+    for (key in jsonObject){
+      let name = key;
+      let value = jsonObject[key]["value"];
+      let id = jsonObject[key]["id"];
+      let type = jsonObject[key]["type"];
+      
+      console.log("type: ", type)
+
+      let dataTypeObject = AssignmentDict[type];
+
+      console.log("dataTypeObject: ", dataTypeObject);
+      
+      let newObject = new dataTypeObject(id, name);
+      newObject.value = value;
+
+      console.log("newObject: ", newObject);
+
+      elementList.push(newObject);
+
+    }
+
+    let counter = 0
+    for (item of elementList){
+      console.log("#", counter, " item: ", item);
+      item.writeValue()
+
+      counter = counter +1;
+    }
+
+    let element = document.getElementById("save-changes");
+
+    element.click();
+  });
 }
 
 // Create the "Read" button if it doesn't exist
