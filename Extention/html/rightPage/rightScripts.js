@@ -12,13 +12,13 @@ function closePopup() {
 // Function to execute the readScript.js in the specified tab
 function readTest(activeTabId) {
 
-  let readScriptsLocation = ""
+  let readScriptsLocation = "readScripts.js"
 
   chrome.scripting.executeScript({
     target:{tabId:parseInt(activeTabId)},
-    files: ['./readScripts']
+    files: [readScriptsLocation]
   }, function () {
-    console.log('readScript.js executed in tab:', activeTabId);
+    console.log(readScriptsLocation, ' executed in tab:', activeTabId);
   });
 }
 

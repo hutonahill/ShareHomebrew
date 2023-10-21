@@ -10,22 +10,19 @@
     "default_icon": "html/logo.png"
   },
   "permissions": [
-    "tabs", "activeTab", "scripting"
+    "tabs",
+    "activeTab",
+    "storage",
+    "scripting"
   ],
+
+  "host_permissions": [
+    "*://www.dndbeyond.com/homebrew/*"
+  ],
+
   "background": {
     "service_worker": "background.js",
-    "type":"module"
-  },
-  "content_scripts":[
-    {
-      "matches":["https://www.dndbeyond.com/homebrew"],
-      "js":["./html/rightPage/rightScripts.js"]
-    }
-  ],
-  "web_accessible_resources": [
-    {
-      "resources": ["readScript.js"],
-      "matches": ["<all_urls>"]
-    }
-  ]
+    "type": "module"
+  }
 }
+
