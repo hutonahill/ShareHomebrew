@@ -604,11 +604,11 @@ function handleReadButtonClick() {
       
       const justTheName = pageTitleEl.childNodes[0].textContent
 
-      console.log("justTheName", justTheName);
+      console.log("justTheName: ", justTheName);
 
-      fileName = (justTheName, ".json");
+      fileName = justTheName.trim() + ".json";
 
-      console.log("fileName:",fileName);
+      console.log("fileName: ",fileName);
 
       downloadJson(output, fileName)
   });
