@@ -7,14 +7,13 @@
     "48": "html/logo.png"
   },
   "action": {
-    "default_icon": "html/logo.png",
-    "default_popup": "html/wrongPage/wrongPage.html"
+    "default_icon": "html/logo.png"
   },
   "permissions": [
-    "activeTab"
+    "activeTab", "scripting"
   ],
   "background": {
-    "service_worker": "html/background.js"
+    "service_worker": "background.js"
   }
 }
 
