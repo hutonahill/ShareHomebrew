@@ -106,6 +106,8 @@
             "id": "field-armor-class-type"
         },
         "Name: Passive Perception": {
+            "nullable": false,
+            "type":"Int",
             "id": "field-passive-perception"
         },
         "Name: Hit Point Die Count": {

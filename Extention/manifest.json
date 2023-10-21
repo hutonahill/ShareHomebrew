@@ -4,10 +4,10 @@
   "version": "0.1",
   "description": "For Sharing D&D Beyond homebrew between accounts.",
   "icons": {
-    "48": "html/logo.png"
+    "48": "logo.png"
   },
   "action": {
-    "default_icon": "html/logo.png"
+    "default_icon": "logo.png"
   },
   "permissions": [
     "tabs",

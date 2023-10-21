@@ -483,15 +483,7 @@ let AssignmentDict = {
 }
 
 
-
-
-
-
-
-
-
-
-function promptForJsonFilePath(callback) {
+function promptForJsonFileContent(callback) {
   // Create an input element of type file
   const inputElement = document.createElement('input');
   inputElement.type = 'file';
@@ -503,11 +495,28 @@ function promptForJsonFilePath(callback) {
   inputElement.addEventListener('change', function () {
     // Check if files were selected
     if (inputElement.files.length > 0) {
-      // Get the selected file path (assuming the first file in the list)
-      const filePath = inputElement.files[0].path;
+      // Get the selected file
+      const selectedFile = inputElement.files[0];
 
-      // Call the callback function with the selected file path
-      callback(filePath);
+      // Use FileReader to read the file content
+      const reader = new FileReader();
+      reader.onload = function (event) {
+        // Get the content as a string
+        const fileContent = event.target.result;
+
+        try {
+          // Parse the JSON content
+          const jsonObject = JSON.parse(fileContent);
+
+          // Call the callback function with the JSON object
+          callback(jsonObject);
+        } catch (error) {
+          console.error('Error parsing JSON:', error);
+        }
+      };
+
+      // Read the file as text
+      reader.readAsText(selectedFile);
     }
   });
 
@@ -515,12 +524,93 @@ function promptForJsonFilePath(callback) {
   inputElement.click();
 }
 
+function downloadJson(data, fileName) {
+  const jsonBlob = new Blob([JSON.stringify(data, null, 2)], { type: 'application/json' });
+  const url = URL.createObjectURL(jsonBlob);
+
+  const a = document.createElement('a');
+  a.href = url;
+  a.download = fileName || 'download.json';
+
+  document.body.appendChild(a);
+  a.click();
+
+  document.body.removeChild(a);
+  URL.revokeObjectURL(url);
+}
+
 
 // Function to handle the "Read" button click
 function handleReadButtonClick() {
   
-  promptForJsonFilePath(function (filePath) {
-    console.log('Selected JSON file path:', filePath);
+  promptForJsonFileContent(function (jsonObject) {
+    console.log('JSON object:', jsonObject);
+
+      let page1 = jsonObject["Page"]
+      let elementList = [];
+      
+      // loop thorugh every key in the dict
+      for (const key in page1){
+
+        // the key is the name
+        let name = key;
+        console.log("Key: ", key);
+        // they hold the id
+        let id = page1[key]["id"]
+        console.log("id: ", id)
+        // they the type
+        let type = page1[key]["type"]
+        console.log("Type: ", type)
+        
+        // use the type to get the right data type
+        let dataType = AssignmentDict[type]
+        console.log("DataType: ", dataType)
+
+        // the other two are values
+        elementList.push(new dataType(id, name))
+      }
+
+      console.log("ElementList: ", elementList)
+      let counter = 0
+      for (item in elementList){
+        // run read value on all data types.
+        console.log("#",counter," item: ", item);
+        dataObject = elementList[item];
+        dataObject.readValue()
+        console.log("#",counter," item: ", item);
+        counter = counter +1;
+      }
+
+      let output = {}
+      for (item in elementList){
+        let name = item.name;
+        let id = item.id;
+        let type = item.type;
+        let value = item.value;
+
+        output[name] = {
+          "id":id,
+          "type":type,
+          "value":value
+        };
+
+        console.log("name: ", name);
+
+        console.log("output[name]: ", output[name]);
+
+      }
+      
+      const pageTitleEl = document.getElementsByClassName("page-title")[0]
+      
+      const justTheName = pageTitleEl.childNodes[0].textContent
+
+      console.log("justTheName", justTheName);
+
+      fileName = (justTheName, ".json");
+
+      console.log("fileName:",fileName);
+
+      downloadJson(output, fileName)
   });
 
 }
